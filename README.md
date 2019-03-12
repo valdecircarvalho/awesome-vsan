@@ -19,6 +19,7 @@
 Product Page - 
 Documentation - https://docs.vmware.com/en/VMware-vSAN/index.html
 vSAN Official Blog
+---
 
 ### vSAN Versions Release Notes
 
@@ -28,12 +29,13 @@ vSAN Official Blog
 
 ## vSAN Twitter List
 
-VMware vSAN
-@vmwarevsan
+**VMware vSAN**
+[@vmwarevsan]((https://twitter.com/vmwarevsan)) - Twitter Official
 VMware vSAN is a software-defined, enterprise storage solution powering industry-leading hyperconverged infrastructure systems. #vSANChat
+---
 
 vSAN People you should follow on Twitter
-
+---
 **Josh Fidel**
 [@jcefidel](https://twitter.com/jcefidel)
 Global Senior Systems Engineer, #HCI, #vSAN at VMware. #VCP #EMCIE #EMCISAv2 #MCSE #CCA #CEH #vbeard #CreativeSavage. All tweets poorly formed opinion only.
