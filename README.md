@@ -32,8 +32,8 @@ vSAN Official Blog
 [@jcefidel](https://twitter.com/jcefidel)
 Global Senior Systems Engineer, #HCI, #vSAN at VMware. #VCP #EMCIE #EMCISAv2 #MCSE #CCA #CEH #vbeard #CreativeSavage. All tweets poorly formed opinion only.
 
-Tyler Gates
-@TSGates_
+**Tyler Gates**
+[@TSGates_](https://twitter.com/TSGates_)
 SE @vmware || Co-Host @S3Vops || Passionate about HCI, data center automation, & transforming business processes || Brewer, Maker, & 3D Printer || Go Build!
 
 
