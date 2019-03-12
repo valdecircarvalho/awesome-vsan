@@ -29,7 +29,6 @@ vSAN Official Blog
 ## vSAN Twitter List
 
 **Josh Fidel**
-
 [@jcefidel] (https://twitter.com/jcefidel)
 Global Senior Systems Engineer, #HCI, #vSAN at VMware. #VCP #EMCIE #EMCISAv2 #MCSE #CCA #CEH #vbeard #CreativeSavage. All tweets poorly formed opinion only.
 
