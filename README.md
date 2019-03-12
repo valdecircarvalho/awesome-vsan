@@ -12,12 +12,18 @@
 
 ## Contents
 
-# What is vSAN
+### What is vSAN
 
 ## vSAN Product info (VMware Official)
 
-Product Page - 
-Documentation - https://docs.vmware.com/en/VMware-vSAN/index.html
+Product Page - https://www.vmware.com/products/vsan.html - English
+
+Product Page - https://www.vmware.com/br/products/vsan.html - Brazilian Portuguese
+
+Product Page - https://www.vmware.com/es/products/vsan.html - Spanish
+
+[Documentation](https://docs.vmware.com/en/VMware-vSAN/index.html)
+
 vSAN Official Blog
 ---
 
