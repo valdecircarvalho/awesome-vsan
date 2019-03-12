@@ -52,10 +52,9 @@ Technical references - https://storagehub.vmware.com/t/vmware-vsan/
 ## vSAN Twitter List
 
 **VMware vSAN**
-
 [@vmwarevsan]((https://twitter.com/vmwarevsan)) - Twitter Official
 VMware vSAN is a software-defined, enterprise storage solution powering industry-leading hyperconverged infrastructure systems. #vSANChat
----
+
 
 vSAN People you should follow on Twitter
 ---
