@@ -22,6 +22,8 @@ Product Page - https://www.vmware.com/br/products/vsan.html - Brazilian Portugue
 
 Product Page - https://www.vmware.com/es/products/vsan.html - Spanish
 
+---
+
 [Documentation](https://docs.vmware.com/en/VMware-vSAN/index.html)
 
 vSAN Official Blog
@@ -36,6 +38,7 @@ vSAN Official Blog
 ## vSAN Twitter List
 
 **VMware vSAN**
+
 [@vmwarevsan]((https://twitter.com/vmwarevsan)) - Twitter Official
 VMware vSAN is a software-defined, enterprise storage solution powering industry-leading hyperconverged infrastructure systems. #vSANChat
 ---
