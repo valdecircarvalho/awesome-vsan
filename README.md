@@ -9,14 +9,20 @@
 	<p>
 </div>
 
-
 ## Contents:
 
-### What is vSAN
+* vSAN Product info (VMware Official)
+* Documentation
+* vSAN Versions Release Notes
+* vSAN Editions
+* VSAN Hands-ON Labs
+* vSAN Blogs
+* vSAN Twitter List
+* vSAN Books
+* Misc
 
 
 ## vSAN Product info (VMware Official)
-
 
 Product Page - https://www.vmware.com/products/vsan.html - English
 
@@ -32,14 +38,23 @@ https://docs.vmware.com/en/VMware-vSAN/index.html
 
 ---
 
-## vSAN Official Blog
-
 
 
 ## Other websites
 
 Technical references - https://storagehub.vmware.com/t/vmware-vsan/
 
+VMTN Community - https://communities.vmware.com/community/vmtn/vsan/overview
+
+vSAN Youtube Channel - https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q
+
+vSAN HCL - https://www.vmware.com/resources/compatibility/search.php?deviceCategory=vsan
+
+vSAN Quick Hardware Reference Guide - https://www.vmware.com/resources/compatibility/vsan_profile.html?locale=en
+
+vSAN Facebook Page - https://www.facebook.com/vmwarevsan
+
+vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
 
 ---
 
@@ -48,6 +63,23 @@ Technical references - https://storagehub.vmware.com/t/vmware-vsan/
 #VSAN Hands-ON Labs
 
 ## vSAN Blogs
+
+- http://www.yellow-bricks.com/
+- http://www.cormachogan.com/
+- http://www.virtuallyghetto.com/
+- http://thenicholson.com/
+- https://storagemojo.com/
+- http://storagegaga.com/
+- http://silvertonconsulting.com/blog/
+- https://www.penguinpunk.net/blog/
+- https://digitalirl.com/
+- http://www.dcig.com/blog
+- http://www.datacenterdude.com/
+- https://d8tadude.com/
+- https://www.chriscolotti.us/
+- http://www.50mu.net/
+- 
+
 
 ## vSAN Twitter List
 
@@ -124,6 +156,10 @@ Storage enthusiast, VMware Exec, classical trumpeter, table tennis threat, all t
 
 
 
+## vSAN Books
+
+-  vSAN 6.7U1 Deep Dive book https://amzn.to/2QR1Gyq
+-  Essential VSAN - http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662
 
 
 
@@ -134,4 +170,3 @@ Storage enthusiast, VMware Exec, classical trumpeter, table tennis threat, all t
 
 
 ## vSAN Youtube Channels / Videos
-
