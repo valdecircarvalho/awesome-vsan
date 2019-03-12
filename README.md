@@ -10,11 +10,13 @@
 </div>
 
 
-## Contents
+## Contents:
 
 ### What is vSAN
 
+
 ## vSAN Product info (VMware Official)
+
 
 Product Page - https://www.vmware.com/products/vsan.html - English
 
@@ -24,9 +26,21 @@ Product Page - https://www.vmware.com/es/products/vsan.html - Spanish
 
 ---
 
-[Documentation](https://docs.vmware.com/en/VMware-vSAN/index.html)
+## Documentation
 
-vSAN Official Blog
+https://docs.vmware.com/en/VMware-vSAN/index.html
+
+---
+
+## vSAN Official Blog
+
+
+
+## Other websites
+
+Technical references - https://storagehub.vmware.com/t/vmware-vsan/
+
+
 ---
 
 ### vSAN Versions Release Notes
