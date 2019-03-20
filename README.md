@@ -1,6 +1,6 @@
-# Awesome vSAN - A Community List of VMware vSAN Resources 
-
-#### A curated list of VMware vSAN Resources create by the community to the community.
+# Awesome vSAN - A Community List of AWESOME VMware vSAN Resources 
+#awesomevSAN
+#### A curated list of AWESOME VMware vSAN Resources create by the community to the community.
 
 <div align="center">
 	<img src="media/i-awesome-vsan.png" alt="I Love vSAN">
@@ -31,6 +31,7 @@
 - VMworld 2018 - vSAN Presentations & Videos
   - VMworld US
   - VMworld Europe
+- Misc 
 - How to contribute
   
 ---
@@ -218,6 +219,10 @@ https://twitter.com/flaborea/lists/vsan-who-to-follow
 [@vmwarevsan](https://twitter.com/vmwarevsan) - Twitter Official
 VMware vSAN is a software-defined, enterprise storage solution powering industry-leading hyperconverged infrastructure systems. #vSANChat
 
+**Captain vSAN**
+[@CaptainVSAN](https://twitter.com/CaptainVSAN)
+It is clobbering time... FUD Fighting, Knowledge Spreading, vSAN Super Hero!
+
 **Duncan Epping**
 [@DuncanYB](https://twitter.com/DuncanYB)
 Chief Technologist Hyperconverged Infrastructure @VMware, focus on Edge and Hybrid Cloud. Author of http://Yellow-Bricks.com , vSAN and Clustering Deep dive books
@@ -233,6 +238,10 @@ vExpert 2013-2016, Veeam Vanguard. Technical Marketing VSAN @ VMware - Storage a
 **Pete Flecha**
 [@vPedroArrow](https://twitter.com/vPedroArrow)
 Technical Marketing for VMware's Storage and Availability products. Host of the vSpeaking Podcast @virtspeaking vExpert 2014-2019 | Veeam Vanguard
+
+**Yanbing Li**
+[@ybhighheels](https://twitter.com/ybhighheels)
+High Tech Girl in High Heels, SVP/GM Storage and Availability @VMware, Mom of 3. Determined to have a positive outlook on life.
 
 **Josh Fidel**
 [@jcefidel](https://twitter.com/jcefidel)
@@ -428,6 +437,12 @@ Session | Title | Stream | Download | PDF
 |PRV1429BE | vSAN Stretched Clusters & Disaster Recovery simplified by Cloud Foundation | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/27116) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/PRV1429BE.mp4) | NO PDF POSTED|
 |WIN3450BE | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26250) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/WIN3450BE.mp4) | NO PDF POSTED|
 
+---
+### Misc
+
+_Use right click to open links in new tab/window_
+
+- vSAN Stickers art by [@duncanyb](https://twitter.com/duncanyb) - http://www.yellow-bricks.com/stickersshirts/
 ---
 ### How to contribute
 
