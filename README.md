@@ -34,6 +34,8 @@
 ---
 ### vSAN Product info (VMware Official)
 
+Use right click to open links in new tab/window
+
 - Product Page - https://www.vmware.com/products/vsan.html - English
 
 - Product Page - https://www.vmware.com/br/products/vsan.html - Brazilian Portuguese
@@ -42,6 +44,8 @@
 
 ---
 ### Documentation
+
+Use right click to open links in new tab/window
 
 - Official vSAN Documentation - https://docs.vmware.com/en/VMware-vSAN/index.html
 
@@ -67,7 +71,7 @@
 ---
 ### vSAN Versions Release Notes
 
-Open with right click
+Use right click to open links in new tab/window
 
 - [VMware vSAN 6.7 Update 1 Release Notes](https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vmware-vsan-67u1-release-notes.html)
 - [VMware vSAN 6.7 Release Notes](https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vmware-vsan-67-release-notes.html)
@@ -81,6 +85,8 @@ Open with right click
 ---
 ### vSAN End Of Support
 
+Use right click to open links in new tab/window
+
 |PRODUCT RELEASE|GENERAL AVAILABILITY|END OF GENERAL SUPPORT|END OF TECHNICAL GUIDANCE|
 |---|---|---|---|
 |vSAN 5.5|2014/03/11|2018/09/19|2020/09/19|
@@ -92,12 +98,16 @@ Source - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/suppo
 ---
 ### VMware Flings
 
+Use right click to open links in new tab/window
+
 - [vSAN Hardware Compatibility List Checker](https://labs.vmware.com/flings/vsan-hardware-compatibility-list-checker)
 
 - [HCIBench](https://labs.vmware.com/flings/hcibench)
 
 ---
 ### vSAN on VMware {Code}
+
+Use right click to open links in new tab/window
 
 #### SDK
 - vSAN Management SDK for Java - https://code.vmware.com/web/sdk/6.7U1/vsan-java
@@ -117,6 +127,8 @@ Source - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/suppo
 
 ---
 ### vSAN Hands-ON Labs (HOL)
+
+Use right click to open links in new tab/window
 
 - **HOL-1908-01-HCI - vSAN v6.7 - Getting Started**
 vSAN delivers flash-optimized, secure shared storage with the simplicity of a VMware vSphere-native experience for all of your critical virtualized workloads.
@@ -141,7 +153,7 @@ https://labs.hol.vmware.com/HOL/catalogs/lab/4671
 ---
 ### Virtually Speaking Podcast Episodes (vSAN)
 
-http://www.vspeakingpodcast.com/episodes?tag=vSAN
+Use right click to open links in new tab/window
 
 - **The State of vSAN**
 Mar 1, 2019 • 41 minutes
@@ -159,8 +171,13 @@ http://www.vspeakingpodcast.com/episodes/104
 Jan 11, 2019 • 35 minutes
 http://www.vspeakingpodcast.com/episodes/101
 
+- ** All episodes** 
+http://www.vspeakingpodcast.com/episodes?tag=vSAN
+
 ---
 ### vSAN Blogs
+
+Use right click to open links in new tab/window
 
 - http://www.yellow-bricks.com/
 - http://www.cormachogan.com/
@@ -179,6 +196,8 @@ http://www.vspeakingpodcast.com/episodes/101
 
 ---
 ### vSAN Twitter List
+
+Use right click to open links in new tab/window
 
 vSAN People you should follow on Twitter
 
@@ -277,11 +296,15 @@ Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpe
 ---
 ### vSAN Books
 
+Use right click to open links in new tab/window
+
 -  vSAN 6.7U1 Deep Dive book https://amzn.to/2QR1Gyq
 -  Essential VSAN - http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662
 
 ---
 ### vSAN Youtube Channels / Videos
+
+Use right click to open links in new tab/window
 
 - VMware vSAN Youtube Channel - https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q/featured
 - Introduction to VMware vSAN - https://www.youtube.com/watch?v=g8S3UT_vvUo
@@ -292,7 +315,9 @@ Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpe
 
 #### VMworld US
 
-[Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-us-playback-urls.md)
+Use right click to open links in new tab/window
+
+[Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-us-playback-urls.md) by [@lamw](https://twitter.com/lamw)
 
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
@@ -352,7 +377,9 @@ Session | Title | Stream | Download | PDF
 
 #### VMworld Europe
 
-[Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-eu-playback-urls.md)
+Use right click to open links in new tab/window
+
+[Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-eu-playback-urls.md) by [@lamw](https://twitter.com/lamw)
 
 Session | Title | Stream | Download | PDF
 ---|---|---|---|---
@@ -387,3 +414,8 @@ Session | Title | Stream | Download | PDF
 |HCI3452BE | Achieving a GDPR-Ready Architecture Leveraging VMware vSAN | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26189) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/HCI3452BE.mp4) | NO PDF POSTED|
 |PRV1429BE | vSAN Stretched Clusters & Disaster Recovery simplified by Cloud Foundation | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/27116) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/PRV1429BE.mp4) | NO PDF POSTED|
 |WIN3450BE | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26250) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/WIN3450BE.mp4) | NO PDF POSTED|
+
+
+### Special Thanks
+
+### How to contribute
