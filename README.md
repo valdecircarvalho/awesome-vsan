@@ -1,6 +1,6 @@
-# Awesome vSAN
+# Awesome vSAN - Community List of VMware vSAN Resources 
 
-#### A curated list of VMware vSAN Resources create by the community to the community
+#### A curated list of VMware vSAN Resources create by the community to the community.
 
 <div align="center">
 	<img src="media/i-love-vsan.png" alt="I Love vSAN">
@@ -30,7 +30,8 @@
 - VMworld 2018 - vSAN Presentations & Videos
   - VMworld US
   - VMworld Europe
-
+- How to contribute
+  
 ---
 ### vSAN Product info (VMware Official)
 
@@ -156,23 +157,24 @@ https://labs.hol.vmware.com/HOL/catalogs/lab/4671
 Use right click to open links in new tab/window
 
 - **The State of vSAN**
-Mar 1, 2019 • 41 minutes
-http://www.vspeakingpodcast.com/episodes/107
+
+	http://www.vspeakingpodcast.com/episodes/107 - Mar 1, 2019 • 41 minutes
 
 - **Free vSAN 6.7 U1 Deep Dive eBook**
-Jan 28, 2019 • 1 minute
-http://www.vspeakingpodcast.com/episodes/105
+
+	http://www.vspeakingpodcast.com/episodes/105 - Jan 28, 2019 • 1 minute
 
 - **Elastic vSAN**
-Jan 25, 2019 • 37 minutes
-http://www.vspeakingpodcast.com/episodes/104
+
+	http://www.vspeakingpodcast.com/episodes/104 - Jan 25, 2019 • 37 minutes
 
 - **vSAN 6.7 U1 Deep Dive**
-Jan 11, 2019 • 35 minutes
-http://www.vspeakingpodcast.com/episodes/101
 
-- ** All episodes** 
-http://www.vspeakingpodcast.com/episodes?tag=vSAN
+	http://www.vspeakingpodcast.com/episodes/101 - Jan 11, 2019 • 35 minutes
+
+- **All episodes** 
+
+	http://www.vspeakingpodcast.com/episodes?tag=vSAN
 
 ---
 ### vSAN Blogs
@@ -202,7 +204,12 @@ Use right click to open links in new tab/window
 vSAN People you should follow on Twitter
 
 **vSAN Chat**
+
 https://twitter.com/hashtag/vsanchat?f=tweets&vertical=default&src=hash
+
+**vSAN Who To Follow** by [Diego Flaborea](https://twitter.com/flaborea)
+
+https://twitter.com/flaborea/lists/vsan-who-to-follow
 
 ---
 **VMware vSAN**
@@ -232,6 +239,10 @@ Global Senior Systems Engineer, #HCI, #vSAN at VMware. #VCP #EMCIE #EMCISAv2 #MC
 **Tony Reeves**
 [@importcarguy](https://twitter.com/importcarguy)
 Christian, Husband, Father, Virtualization geek, VCP5-6.5DCV, 3x #vExpert & #vSANvExpert @WIVMUG Leader, Co-host of the @vGigacast, Tech Field Day delegate
+
+**Luciano Patrão**
+[@Luciano_PT](https://twitter.com/Luciano_PT)
+Blogger, vExpert 4*, VCP6.5- DCV, vSAN Specialist 2*, Veeam Vanguard, TechLead Virtualization & Storage, ICT Senior Infrastructure Engineer. Backups specialist.
 
 **Tyler Gates**
 [@TSGates_](https://twitter.com/TSGates_)
@@ -298,18 +309,18 @@ Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpe
 
 Use right click to open links in new tab/window
 
--  vSAN 6.7U1 Deep Dive book https://amzn.to/2QR1Gyq
--  Essential VSAN - http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662
+-  [vSAN 6.7U1 Deep Dive book](https://amzn.to/2QR1Gyq) 
+-  [Essential VSAN](http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662) 
 
 ---
 ### vSAN Youtube Channels / Videos
 
 Use right click to open links in new tab/window
 
-- VMware vSAN Youtube Channel - https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q/featured
-- Introduction to VMware vSAN - https://www.youtube.com/watch?v=g8S3UT_vvUo
-- VMworld 2017 - vSAN Playlist by [@duncanyb](https://twitter.com/duncanyb) - https://www.youtube.com/playlist?list=PLHYKlysU7mcUyxDIMUZcnZqoS0YIWQ-YD
-
+- [VMware vSAN Youtube Channel](https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q/featured)
+- [Introduction to VMware vSAN](https://www.youtube.com/watch?v=g8S3UT_vvUo)
+- [VMworld 2017 - vSAN Playlist](https://www.youtube.com/playlist?list=PLHYKlysU7mcUyxDIMUZcnZqoS0YIWQ-YD) by [@duncanyb](https://twitter.com/duncanyb)
+- [Introdução VMware vSAN - PT-BR](https://www.youtube.com/watch?v=0fbc_LthTrY&list=PLAh5KLOvimbhcmYdXQz41TMSPTo_AK9Dx) by [John Costa](https://twitter.com/johncostaaraujo)
 ---
 ### VMworld 2018 - vSAN Presentations & Videos
 
@@ -416,6 +427,20 @@ Session | Title | Stream | Download | PDF
 |WIN3450BE | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26250) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/WIN3450BE.mp4) | NO PDF POSTED|
 
 
+### How to contribute
+
+Read the [How to collaborate document](https://github.com/valdecircarvalho/awesome-vsan/blob/master/CONTRIBUTE.MD)
+
+
 ### Special Thanks
 
-### How to contribute
+Special Thanks for all the community members who helped me to come up with this first version.
+Everything started with this [single tweet](https://twitter.com/homelaber/status/1103370599408324611) 
+
+- https://twitter.com/Luciano_PT
+- https://twitter.com/importcarguy
+- https://twitter.com/paulbraren
+- https://twitter.com/flaborea
+- https://twitter.com/dustinplank
+- https://twitter.com/mlydy
+- https://twitter.com/mmagbee
