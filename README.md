@@ -3,7 +3,7 @@
 #### A curated list of VMware vSAN Resources create by the community to the community.
 
 <div align="center">
-	<img src="media/i-love-vsan.png" alt="I Love vSAN">
+	<img src="media/i-awesome-vsan.png" alt="I Love vSAN">
 	<br>
 	<br>
 	<p>
