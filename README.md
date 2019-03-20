@@ -1,4 +1,4 @@
-# Awesome vSAN - Community List of VMware vSAN Resources 
+# Awesome vSAN - A Community List of VMware vSAN Resources 
 
 #### A curated list of VMware vSAN Resources create by the community to the community.
 
