@@ -35,7 +35,7 @@
 ---
 ### vSAN Product info (VMware Official)
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - Product Page - https://www.vmware.com/products/vsan.html - English
 
@@ -46,7 +46,7 @@ Use right click to open links in new tab/window
 ---
 ### Documentation
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - Official vSAN Documentation - https://docs.vmware.com/en/VMware-vSAN/index.html
 
@@ -72,7 +72,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN Versions Release Notes
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - [VMware vSAN 6.7 Update 1 Release Notes](https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vmware-vsan-67u1-release-notes.html)
 - [VMware vSAN 6.7 Release Notes](https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vmware-vsan-67-release-notes.html)
@@ -86,7 +86,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN End Of Support
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 |PRODUCT RELEASE|GENERAL AVAILABILITY|END OF GENERAL SUPPORT|END OF TECHNICAL GUIDANCE|
 |---|---|---|---|
@@ -99,7 +99,7 @@ Source - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/suppo
 ---
 ### VMware Flings
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - [vSAN Hardware Compatibility List Checker](https://labs.vmware.com/flings/vsan-hardware-compatibility-list-checker)
 
@@ -108,7 +108,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN on VMware {Code}
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 #### SDK
 - vSAN Management SDK for Java - https://code.vmware.com/web/sdk/6.7U1/vsan-java
@@ -129,7 +129,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN Hands-ON Labs (HOL)
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - **HOL-1908-01-HCI - vSAN v6.7 - Getting Started**
 vSAN delivers flash-optimized, secure shared storage with the simplicity of a VMware vSphere-native experience for all of your critical virtualized workloads.
@@ -154,7 +154,7 @@ https://labs.hol.vmware.com/HOL/catalogs/lab/4671
 ---
 ### Virtually Speaking Podcast Episodes (vSAN)
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - **The State of vSAN**
 
@@ -179,7 +179,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN Blogs
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - http://www.yellow-bricks.com/
 - http://www.cormachogan.com/
@@ -199,7 +199,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN Twitter List
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 vSAN People you should follow on Twitter
 
@@ -307,7 +307,7 @@ Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpe
 ---
 ### vSAN Books
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 -  [vSAN 6.7U1 Deep Dive book](https://amzn.to/2QR1Gyq) 
 -  [Essential VSAN](http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662) 
@@ -315,7 +315,7 @@ Use right click to open links in new tab/window
 ---
 ### vSAN Youtube Channels / Videos
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 - [VMware vSAN Youtube Channel](https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q/featured)
 - [Introduction to VMware vSAN](https://www.youtube.com/watch?v=g8S3UT_vvUo)
@@ -326,7 +326,7 @@ Use right click to open links in new tab/window
 
 #### VMworld US
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 [Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-us-playback-urls.md) by [@lamw](https://twitter.com/lamw)
 
@@ -388,7 +388,7 @@ Session | Title | Stream | Download | PDF
 
 #### VMworld Europe
 
-Use right click to open links in new tab/window
+_Use right click to open links in new tab/window_
 
 [Source](https://github.com/lamw/vmworld2018-session-urls/blob/master/vmworld-eu-playback-urls.md) by [@lamw](https://twitter.com/lamw)
 
@@ -426,12 +426,12 @@ Session | Title | Stream | Download | PDF
 |PRV1429BE | vSAN Stretched Clusters & Disaster Recovery simplified by Cloud Foundation | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/27116) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/PRV1429BE.mp4) | NO PDF POSTED|
 |WIN3450BE | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26250) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/WIN3450BE.mp4) | NO PDF POSTED|
 
-
+---
 ### How to contribute
 
 Read the [How to collaborate document](https://github.com/valdecircarvalho/awesome-vsan/blob/master/CONTRIBUTE.MD)
 
-
+---
 ### Special Thanks
 
 Special Thanks for all the community members who helped me to come up with this first version.
@@ -444,3 +444,8 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - https://twitter.com/dustinplank
 - https://twitter.com/mlydy
 - https://twitter.com/mmagbee
+
+
+---
+##### ToDo
+- Create the Table of Contents links
