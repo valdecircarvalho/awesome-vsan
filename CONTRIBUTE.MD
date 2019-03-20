@@ -6,7 +6,7 @@ Contributions are encouraged and welcomed. Feel free to send updates and correct
 
 GitHub issues are the primary way to collaborate regarding proposed changes to this project.
 
-Some contributors may also be available on Twitter (@homelaber) using the hashtag #awesome-vsan
+Some contributors may also be available on Twitter (@homelaber) using the hashtag #awesomevsan
 
 ## How to contribute
 
