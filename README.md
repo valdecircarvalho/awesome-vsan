@@ -14,6 +14,7 @@
 
 - vSAN Product info (VMware Official)
 - Documentation
+- Download VMware vSAN - vSAN Product Evaluation
 - vSAN Versions Release Notes
 - vSAN End Of Support
 - VMware Flings
@@ -62,12 +63,13 @@ _Use right click to open links in new tab/window_
 
 - vSAN Facebook Page - https://www.facebook.com/vmwarevsan
 
-- vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
-
 - vSAN 6.7 Licensing Guide - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsan/vmware-vsan-67-licensing-guide.pdf
 
 - Compare vSAN Editions and Features - https://www.vmware.com/products/vsan.html#compare
 
+### Download
+
+- Download VMware vSAN - vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
 
 ---
 ### vSAN Versions Release Notes
