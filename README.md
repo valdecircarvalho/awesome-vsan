@@ -259,6 +259,10 @@ Technical Marketing for VMware's Storage and Availability products. Host of the 
 [@ybhighheels](https://twitter.com/ybhighheels)
 High Tech Girl in High Heels, SVP/GM Storage and Availability @VMware, Mom of 3. Determined to have a positive outlook on life.
 
+**Ron Singler**
+[@rsingler_](https://twitter.com/rsingler_)
+Director of Technology, Storage & Availability @VMware - My views/opinions are my own…
+
 **Josh Fidel**
 [@jcefidel](https://twitter.com/jcefidel)
 Global Senior Systems Engineer, #HCI, #vSAN at VMware. #VCP #EMCIE #EMCISAv2 #MCSE #CCA #CEH #vbeard #CreativeSavage. All tweets poorly formed opinion only.
