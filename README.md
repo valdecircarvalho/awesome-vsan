@@ -315,6 +315,10 @@ Technical Marketing for VMware's Storage and Availability products. All things S
 [@Tohuw](https://twitter.com/Tohuw)
 Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpert. Devout optimistic curmudgeon. Views are mine alone.
 
+**Luigi Danakos**
+[@NerdBlurt](https://twitter.com/NerdBlurt)
+I have a lot of interests but mainly Tech, Video games and stuff to do w/my Family. #vExpert Work doing Social Media Marketing & Host of TechStandup Podcast
+
 ---
 ### vSAN Books
 
@@ -332,6 +336,8 @@ _Use right click to open links in new tab/window_
 - [Introduction to VMware vSAN](https://www.youtube.com/watch?v=g8S3UT_vvUo)
 - [VMworld 2017 - vSAN Playlist](https://www.youtube.com/playlist?list=PLHYKlysU7mcUyxDIMUZcnZqoS0YIWQ-YD) by [@duncanyb](https://twitter.com/duncanyb)
 - [Introdução VMware vSAN - PT-BR](https://www.youtube.com/watch?v=0fbc_LthTrY&list=PLAh5KLOvimbhcmYdXQz41TMSPTo_AK9Dx) by [John Costa](https://twitter.com/johncostaaraujo)
+- [Tech Stand Up Episode 20 – Getting Started with VMware vSAN for Free](https://nerdblurt.com/tech-stand-up-episode-20-getting-started-with-vmware-vsan-for-free/) by [Luigi Danakos @nerdBlurt](https://twitter.com/NerdBlurt)
+
 ---
 ### VMworld 2018 - vSAN Presentations & Videos
 
