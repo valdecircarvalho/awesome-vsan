@@ -1,7 +1,7 @@
 # Awesome vSAN - A Community List of AWESOME VMware vSAN Resources 
 #awesomevSAN
 
-##### _Last Update: 2019-03-20_
+##### _Last Update: 2019-03-21_
 
 #### A curated list of AWESOME VMware vSAN Resources create by the community to the community.
 
@@ -21,6 +21,7 @@
 - [vSAN Versions Release Notes](https://github.com/valdecircarvalho/awesome-vsan#vsan-versions-release-notes)
 - [vSAN End Of Support](https://github.com/valdecircarvalho/awesome-vsan#vsan-end-of-support)
 - [VMware Flings](https://github.com/valdecircarvalho/awesome-vsan#vmware-flings)
+- [Tools]()
 - [vSAN on VMware {Code}](https://github.com/valdecircarvalho/awesome-vsan#vsan-on-vmware-code)
   - [SDK](https://github.com/valdecircarvalho/awesome-vsan#sdk)
   - [PowerCLI Cookbook](https://github.com/valdecircarvalho/awesome-vsan#powercli-cookbook)
@@ -37,6 +38,7 @@
 - [Misc](https://github.com/valdecircarvalho/awesome-vsan#misc)
 - [How to contribute](https://github.com/valdecircarvalho/awesome-vsan#how-to-contribute)
 - [Special Thanks](https://github.com/valdecircarvalho/awesome-vsan#special-thanks)
+- [Update Log]()
 - [ToDo](https://github.com/valdecircarvalho/awesome-vsan#todo)
   
 ---
@@ -105,13 +107,21 @@ _Use right click to open links in new tab/window_
 Source - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
 ---
-### VMware Flings
+### VMware Flings - vSAN
 
 _Use right click to open links in new tab/window_
 
 - [vSAN Hardware Compatibility List Checker](https://labs.vmware.com/flings/vsan-hardware-compatibility-list-checker)
 
 - [HCIBench](https://labs.vmware.com/flings/hcibench)
+
+---
+### Tools
+
+- [vsanmetrics](https://github.com/equelin/vsanmetrics) by [Erwan Quélin @erwanquelin](https://twitter.com/erwanquelin)
+
+	vsanmetrics is a tool written in Python for collecting usage and performance metrics and health status from a VMware vSAN cluster and translating them in InfluxDB's line protocol.
+	It can be useful to send metrics in a time-serie database like InfluxDB or Graphite with the help of Telegraf and then display metrics in Grafana.
 
 ---
 ### vSAN on VMware {Code}
@@ -324,6 +334,10 @@ Christian. Sr. Product Marketing Manager, Storage & Availability @VMware. @vExpe
 [@NerdBlurt](https://twitter.com/NerdBlurt)
 I have a lot of interests but mainly Tech, Video games and stuff to do w/my Family. #vExpert Work doing Social Media Marketing & Host of TechStandup Podcast
 
+**Erwan Quélin**
+[@erwanquelin](https://twitter.com/erwanquelin)
+Build stuff and then fix issues... @OVH #VMware #vExpert #Dev #Automation
+
 ---
 ### vSAN Books
 
@@ -474,7 +488,10 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - https://twitter.com/mmagbee
 - https://twitter.com/arielsanchezmor
 
-
+### Update Log
+- 2019-03-20
+   - added vsanmetrics
+   - added @erwanquelin
 ---
 ##### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
