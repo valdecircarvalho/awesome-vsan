@@ -75,6 +75,7 @@ _Use right click to open links in new tab/window_
 
 - Compare vSAN Editions and Features - https://www.vmware.com/products/vsan.html#compare
 
+---
 ### Download
 
 - Download VMware vSAN - vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
