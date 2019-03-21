@@ -499,3 +499,4 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
 - Tweet new commits
+- Create a Twitter account for the project
