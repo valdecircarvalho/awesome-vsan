@@ -498,3 +498,4 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 ##### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
+- Tweet new commits
