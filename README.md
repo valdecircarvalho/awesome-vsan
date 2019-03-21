@@ -498,6 +498,8 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
    - added tools section
    - added vsanmetrics
    - added @erwanquelin
+- 2019-03-21
+   - added rsingler_
 ---
 ##### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
