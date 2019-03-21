@@ -38,7 +38,7 @@
 - [Misc](https://github.com/valdecircarvalho/awesome-vsan#misc)
 - [How to contribute](https://github.com/valdecircarvalho/awesome-vsan#how-to-contribute)
 - [Special Thanks](https://github.com/valdecircarvalho/awesome-vsan#special-thanks)
-- [Update Log]()
+- [Update Log](https://github.com/valdecircarvalho/awesome-vsan#update-log)
 - [ToDo](https://github.com/valdecircarvalho/awesome-vsan#todo)
   
 ---
@@ -490,6 +490,7 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 
 ### Update Log
 - 2019-03-20
+   - added tools section
    - added vsanmetrics
    - added @erwanquelin
 ---
