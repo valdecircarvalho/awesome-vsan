@@ -15,31 +15,31 @@
 ---
 ## Contents:
 
-- [vSAN Product info (VMware Official)](https://github.com/valdecircarvalho/awesome-vsan#vsan-product-info-vmware-official)
-- [Documentation](https://github.com/valdecircarvalho/awesome-vsan#documentation)
-- [Download VMware vSAN - vSAN Product Evaluation](https://github.com/valdecircarvalho/awesome-vsan#download)
-- [vSAN Versions Release Notes](https://github.com/valdecircarvalho/awesome-vsan#vsan-versions-release-notes)
-- [vSAN End Of Support](https://github.com/valdecircarvalho/awesome-vsan#vsan-end-of-support)
-- [VMware Flings](https://github.com/valdecircarvalho/awesome-vsan#vmware-flings)
+- [vSAN Product info (VMware Official)](n#vsan-product-info-vmware-official)
+- [Documentation](n#documentation)
+- [Download VMware vSAN - vSAN Product Evaluation](n#download)
+- [vSAN Versions Release Notes](n#vsan-versions-release-notes)
+- [vSAN End Of Support](n#vsan-end-of-support)
+- [VMware Flings](n#vmware-flings)
 - [Tools](#tools)
-- [vSAN on VMware {Code}](https://github.com/valdecircarvalho/awesome-vsan#vsan-on-vmware-code)
-  - [SDK](https://github.com/valdecircarvalho/awesome-vsan#sdk)
-  - [PowerCLI Cookbook](https://github.com/valdecircarvalho/awesome-vsan#powercli-cookbook)
-  - [VMware Sample Exchange - vSAN - @ VMware {Code}](https://github.com/valdecircarvalho/awesome-vsan#vmware-sample-exchange---vsan----vmware-code)
-- [vSAN Hands-ON Labs (HOL)](https://github.com/valdecircarvalho/awesome-vsan#vsan-hands-on-labs-hol)
-- [Virtually Speaking Podcast Episodes (vSAN)](https://github.com/valdecircarvalho/awesome-vsan#virtually-speaking-podcast-episodes-vsan)
-- [vSAN Blogs](https://github.com/valdecircarvalho/awesome-vsan#vsan-blogs)
-- [vSAN Twitter List](https://github.com/valdecircarvalho/awesome-vsan#vsan-twitter-list)
-- [vSAN Books](https://github.com/valdecircarvalho/awesome-vsan#vsan-books)
-- [vSAN Youtube Channels / Videos](https://github.com/valdecircarvalho/awesome-vsan#vsan-youtube-channels--videos)
-- [VMworld 2018 - vSAN Presentations & Videos](https://github.com/valdecircarvalho/awesome-vsan#vmworld-2018---vsan-presentations--videos)
-  - [VMworld US](https://github.com/valdecircarvalho/awesome-vsan#vmworld-us)
-  - [VMworld Europe](https://github.com/valdecircarvalho/awesome-vsan#vmworld-europe)
-- [Misc](https://github.com/valdecircarvalho/awesome-vsan#misc)
-- [How to contribute](https://github.com/valdecircarvalho/awesome-vsan#how-to-contribute)
-- [Special Thanks](https://github.com/valdecircarvalho/awesome-vsan#special-thanks)
-- [Update Log](https://github.com/valdecircarvalho/awesome-vsan#update-log)
-- [ToDo](https://github.com/valdecircarvalho/awesome-vsan#todo)
+- [vSAN on VMware {Code}](n#vsan-on-vmware-code)
+  - [SDK](n#sdk)
+  - [PowerCLI Cookbook](n#powercli-cookbook)
+  - [VMware Sample Exchange - vSAN - @ VMware {Code}](n#vmware-sample-exchange---vsan----vmware-code)
+- [vSAN Hands-ON Labs (HOL)](n#vsan-hands-on-labs-hol)
+- [Virtually Speaking Podcast Episodes (vSAN)](n#virtually-speaking-podcast-episodes-vsan)
+- [vSAN Blogs](n#vsan-blogs)
+- [vSAN Twitter List](n#vsan-twitter-list)
+- [vSAN Books](n#vsan-books)
+- [vSAN Youtube Channels / Videos](n#vsan-youtube-channels--videos)
+- [VMworld 2018 - vSAN Presentations & Videos](n#vmworld-2018---vsan-presentations--videos)
+  - [VMworld US](n#vmworld-us)
+  - [VMworld Europe](n#vmworld-europe)
+- [Misc](n#misc)
+- [How to contribute](n#how-to-contribute)
+- [Special Thanks](n#special-thanks)
+- [Update Log](n#update-log)
+- [ToDo](n#todo)
   
 ---
 ### vSAN Product info (VMware Official)
@@ -471,7 +471,7 @@ _Use right click to open links in new tab/window_
 ---
 ### How to contribute
 
-Read the [How to collaborate document](https://github.com/valdecircarvalho/awesome-vsan/blob/master/CONTRIBUTE.MD)
+Read the [How to collaborate document](n/blob/master/CONTRIBUTE.MD)
 
 ---
 ### Special Thanks
