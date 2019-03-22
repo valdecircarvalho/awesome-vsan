@@ -15,31 +15,37 @@
 ---
 ## Contents:
 
-- [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
-- [Documentation](#documentation)
-- [Download VMware vSAN - vSAN Product Evaluation](#download)
-- [vSAN Versions Release Notes](#vsan-versions-release-notes)
-- [vSAN End Of Support](#vsan-end-of-support)
-- [VMware Flings](#vmware-flings)
-- [Tools](#tools)
-- [vSAN on VMware {Code}](#vsan-on-vmware-code)
-  - [SDK](#sdk)
-  - [PowerCLI Cookbook](#powercli-cookbook)
-  - [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
-- [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
-- [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
-- [vSAN Blogs](#vsan-blogs)
-- [vSAN Twitter List](#vsan-twitter-list)
-- [vSAN Books](#vsan-books)
-- [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
-- [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
-  - [VMworld US](#vmworld-us)
-  - [VMworld Europe](#vmworld-europe)
-- [Misc](#misc)
-- [How to contribute](#how-to-contribute)
-- [Special Thanks](#special-thanks)
-- [Update Log](#update-log)
-- [ToDo](#todo)
+- [Awesome vSAN - A Community List of AWESOME VMware vSAN Resources](#awesome-vsan---a-community-list-of-awesome-vmware-vsan-resources)
+				- [_Last Update: 2019-03-21_](#last-update-2019-03-21)
+			- [A curated list of AWESOME VMware vSAN Resources create by the community to the community.](#a-curated-list-of-awesome-vmware-vsan-resources-create-by-the-community-to-the-community)
+	- [Contents:](#contents)
+		- [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
+		- [Documentation](#documentation)
+		- [Download](#download)
+		- [vSAN Versions Release Notes](#vsan-versions-release-notes)
+		- [vSAN End Of Support](#vsan-end-of-support)
+		- [VMware Flings - vSAN](#vmware-flings---vsan)
+		- [Tools](#tools)
+		- [vSAN on VMware {Code}](#vsan-on-vmware-code)
+			- [SDK](#sdk)
+			- [PowerCLI Cookbook](#powercli-cookbook)
+			- [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
+		- [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
+		- [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
+		- [vSAN Blogs](#vsan-blogs)
+			- [vSAN Blogs Series](#vsan-blogs-series)
+		- [vSAN Twitter List](#vsan-twitter-list)
+		- [vSAN Books](#vsan-books)
+		- [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
+		- [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
+			- [VMworld US](#vmworld-us)
+			- [VMworld Europe](#vmworld-europe)
+		- [Misc](#misc)
+	- [- vSAN Stickers art by @duncanyb - http://www.yellow-bricks.com/stickersshirts/](#vsan-stickers-art-by-duncanyb---httpwwwyellow-brickscomstickersshirts)
+		- [How to contribute](#how-to-contribute)
+		- [Special Thanks](#special-thanks)
+			- [Update Log](#update-log)
+				- [ToDo](#todo)
   
 ---
 ### vSAN Product info (VMware Official)
@@ -214,6 +220,21 @@ _Use right click to open links in new tab/window_
 - https://d8tadude.com/
 - https://www.chriscolotti.us/
 - http://www.50mu.net/
+- https://serveritpro.wordpress.com/
+- http://virtuallysensei.com/
+  
+
+---
+#### vSAN Blogs Series
+
+_Use right click to open links in new tab/window_
+
+
+- vSAN 6.7U1 Health Checks Explained by [Harikrishnan - @hari5611](https://twitter.com/hari5611)
+  - Part 1 - https://serveritpro.wordpress.com/2019/01/30/vsan-health-checks-explained-part-1/
+  - Part 2 - https://serveritpro.wordpress.com/2019/02/01/vsan-health-checks-explained-part-2/
+  - Part 3 - https://serveritpro.wordpress.com/2019/03/11/vsan-health-checks-explained-part-3/
+  - Part 4 - https://serveritpro.wordpress.com/2019/03/22/vsan-health-checks-explained-part-4/
 
 ---
 ### vSAN Twitter List
@@ -342,6 +363,17 @@ I have a lot of interests but mainly Tech, Video games and stuff to do w/my Fami
 **Erwan Quélin**
 [@erwanquelin](https://twitter.com/erwanquelin)
 Build stuff and then fix issues... @OVH #VMware #vExpert #Dev #Automation
+
+**Mr vSAN**
+[@MR__vSAN](https://twitter.com/MR__vSAN)
+
+**Hareesh K G | vExpert**
+[@virtuallySensei](https://twitter.com/virtuallySensei)
+Technical Support Engineer-II at VMware |vExpert 2018 | VCAP-6/5.5 DCV| vSAN-specialist |Blogger at http://virtuallySensei.com 
+
+**Harikrishnan T**
+[@hari5611](https://twitter.com/hari5611)
+Systems Development Engineer @ #DellEMC R&D. VMware #vExpert 2019, #CiscoChampion 2019, Vmware VTSP-Network Virtualization, HCI & vCloud Foundation.
 
 ---
 ### vSAN Books
@@ -495,14 +527,20 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 
 #### Update Log
 - 2019-03-20
-   - added tools section
-   - added vsanmetrics
-   - added @erwanquelin
+    - added tools section
+    - added vsanmetrics
+    - added @erwanquelin
 - 2019-03-21
-   - added rsingler_
+    - added rsingler_
+- 2019-03-22
+    - added @virtuallySensei
+    - added @hari5611
+    - added vSAN Blogs Series section
+    - added vSAN Health Checks Explained by @hari5611
 ---
 ##### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
 - Tweet new commits
 - Create a Twitter account for the project
+- Add new section - vSAN vExpert List
