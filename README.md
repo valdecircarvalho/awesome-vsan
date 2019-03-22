@@ -1,9 +1,10 @@
-# Awesome vSAN - A Community List of AWESOME VMware vSAN Resources 
+<center> <H1>Awesome vSAN - A Community List of AWESOME VMware vSAN Resources </H1> </center>
+
 #awesomevSAN
 
-##### _Last Update: 2019-03-21_
+_Last Update: 2019-03-21_
 
-#### A curated list of AWESOME VMware vSAN Resources create by the community to the community.
+<center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
 <div align="center">
 	<img src="media/i-awesome-vsan.png" alt="I Love vSAN">
@@ -13,39 +14,34 @@
 </div>
 
 ---
-## Contents:
+<h2>Content:</h2>
 
-- [Awesome vSAN - A Community List of AWESOME VMware vSAN Resources](#awesome-vsan---a-community-list-of-awesome-vmware-vsan-resources)
-				- [_Last Update: 2019-03-21_](#last-update-2019-03-21)
-			- [A curated list of AWESOME VMware vSAN Resources create by the community to the community.](#a-curated-list-of-awesome-vmware-vsan-resources-create-by-the-community-to-the-community)
-	- [Contents:](#contents)
-		- [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
-		- [Documentation](#documentation)
-		- [Download](#download)
-		- [vSAN Versions Release Notes](#vsan-versions-release-notes)
-		- [vSAN End Of Support](#vsan-end-of-support)
-		- [VMware Flings - vSAN](#vmware-flings---vsan)
-		- [Tools](#tools)
-		- [vSAN on VMware {Code}](#vsan-on-vmware-code)
-			- [SDK](#sdk)
-			- [PowerCLI Cookbook](#powercli-cookbook)
-			- [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
-		- [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
-		- [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
-		- [vSAN Blogs](#vsan-blogs)
-			- [vSAN Blogs Series](#vsan-blogs-series)
-		- [vSAN Twitter List](#vsan-twitter-list)
-		- [vSAN Books](#vsan-books)
-		- [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
-		- [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
-			- [VMworld US](#vmworld-us)
-			- [VMworld Europe](#vmworld-europe)
-		- [Misc](#misc)
-	- [- vSAN Stickers art by @duncanyb - http://www.yellow-bricks.com/stickersshirts/](#vsan-stickers-art-by-duncanyb---httpwwwyellow-brickscomstickersshirts)
-		- [How to contribute](#how-to-contribute)
-		- [Special Thanks](#special-thanks)
-			- [Update Log](#update-log)
-				- [ToDo](#todo)
+- [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
+- [Documentation](#documentation)
+- [Download](#download)
+- [vSAN Versions Release Notes](#vsan-versions-release-notes)
+- [vSAN End Of Support](#vsan-end-of-support)
+- [VMware Flings - vSAN](#vmware-flings---vsan)
+- [Tools](#tools)
+- [vSAN on VMware {Code}](#vsan-on-vmware-code)
+	- [SDK](#sdk)
+	- [PowerCLI Cookbook](#powercli-cookbook)
+	- [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
+- [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
+- [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
+- [vSAN Blogs](#vsan-blogs)
+	- [vSAN Blogs Series](#vsan-blogs-series)
+- [vSAN Twitter List](#vsan-twitter-list)
+- [vSAN Books](#vsan-books)
+- [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
+- [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
+	- [VMworld US](#vmworld-us)
+	- [VMworld Europe](#vmworld-europe)
+- [Misc](#misc)
+- [How to contribute](#how-to-contribute)
+- [Special Thanks](#special-thanks)
+- [Update Log](#update-log)
+- [ToDo](#todo)
   
 ---
 ### vSAN Product info (VMware Official)
@@ -505,6 +501,7 @@ Session | Title | Stream | Download | PDF
 _Use right click to open links in new tab/window_
 
 - vSAN Stickers art by [@duncanyb](https://twitter.com/duncanyb) - http://www.yellow-bricks.com/stickersshirts/
+  
 ---
 ### How to contribute
 
@@ -525,7 +522,7 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - https://twitter.com/mmagbee
 - https://twitter.com/arielsanchezmor
 
-#### Update Log
+### Update Log
 - 2019-03-20
     - added tools section
     - added vsanmetrics
@@ -538,7 +535,7 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
     - added vSAN Blogs Series section
     - added vSAN Health Checks Explained by @hari5611
 ---
-##### ToDo
+### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
 - Tweet new commits
