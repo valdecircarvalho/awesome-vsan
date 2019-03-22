@@ -32,6 +32,7 @@ _Last Update: 2019-03-21_
 - [vSAN Blogs](#vsan-blogs)
 	- [vSAN Blogs Series](#vsan-blogs-series)
 - [vSAN Twitter List](#vsan-twitter-list)
+- [vExperts vSAN](#vexperts-vsan)
 - [vSAN Books](#vsan-books)
 - [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
 - [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
@@ -62,6 +63,8 @@ _Use right click to open links in new tab/window_
 - Official vSAN Documentation - https://docs.vmware.com/en/VMware-vSAN/index.html
 
 - Technical references - https://storagehub.vmware.com/t/vmware-vsan/
+
+- Storage Hub - https://storagehub.vmware.com/
 
 - VMTN Community - https://communities.vmware.com/community/vmtn/vsan/overview
 
@@ -372,6 +375,86 @@ Technical Support Engineer-II at VMware |vExpert 2018 | VCAP-6/5.5 DCV| vSAN-spe
 Systems Development Engineer @ #DellEMC R&D. VMware #vExpert 2019, #CiscoChampion 2019, Vmware VTSP-Network Virtualization, HCI & vCloud Foundation.
 
 ---
+### vExperts vSAN
+
+_Use right click to open links in new tab/window_
+
+List of vExperts on the vExpert vSAN Subprogram.
+
+https://vexpert.vmware.com/directory
+
+| Name | @Twitter | Blog |
+|---|---|---|
+ | [Anthony Spiteri](https://vexpert.vmware.com/directory/52) | [@anthonyspiteri](https://twitter.com/anthonyspiteri) | http://anthonyspiteri.net | 
+ | [Kim Bottu](https://vexpert.vmware.com/directory/78) | [@kim_bottu](https://twitter.com/kim_bottu) | http://vmusketeers.com/ | 
+ | [Valdecir Carvalho](https://vexpert.vmware.com/directory/91) | [@homelaber](https://twitter.com/homelaber) | http://homelaber.com.br | 
+ | [Chi Kin Wu](https://vexpert.vmware.com/directory/155) | [@umacboyvictor](https://twitter.com/umacboyvictor) | https://wuchikin.wordpress.com/ | 
+ | [Aram Avetisyan](https://vexpert.vmware.com/directory/165) | [@how2vm](https://twitter.com/how2vm) | http://www.thevirtualist.org/author/aram-avetisyanthevirtualist-org/ | 
+ | [Josef Zach](https://vexpert.vmware.com/directory/186) | [@zach_josef](https://twitter.com/zach_josef) | http://www.virtualguru.cz | 
+ | [Brian Knutsson](https://vexpert.vmware.com/directory/199) | [@brianknutsson](https://twitter.com/brianknutsson) | http://vm.knutsson.it | 
+ | [Ebrahim Aldesouky](https://vexpert.vmware.com/directory/211) | [@ebrahimaldesouk](https://twitter.com/ebrahimaldesouk) | https://itsaurus.wordpress.com/ | 
+ | [Frederic Martin](https://vexpert.vmware.com/directory/238) | [@vmdude_fr](https://twitter.com/vmdude_fr) | http://www.vmdude.fr | 
+ | [Michael Peres](https://vexpert.vmware.com/directory/241) | [@peresmike](https://twitter.com/peresmike) | http://www.vstory.fr | 
+ | [Erwan Quélin](https://vexpert.vmware.com/directory/243) | [@erwanquelin](https://twitter.com/erwanquelin) | https://myvmworld.fr | 
+ | [Raphael Schitz](https://vexpert.vmware.com/directory/245) | [@hypervisor_fr](https://twitter.com/hypervisor_fr) | http://www.hypervisor.fr | 
+ | [Florian Grehl](https://vexpert.vmware.com/directory/264) | [@virten](https://twitter.com/virten) | http://www.virten.net/ | 
+ | [Jens Hennig](https://vexpert.vmware.com/directory/269) | [@hennig_jens](https://twitter.com/hennig_jens) | http://www.comdivision.com | 
+ | [Marc Huppert](https://vexpert.vmware.com/directory/271) | [@marchuppert](https://twitter.com/marchuppert) | http://vcdx181.com | 
+ | [Jens Klasen](https://vexpert.vmware.com/directory/272) | [@jensklasen](https://twitter.com/jensklasen) | https://twitter.com/jensklasen | 
+ | [Luciano Patrao](https://vexpert.vmware.com/directory/281) | [@luciano_pt](https://twitter.com/luciano_pt) | http://www.provirtualzone.com/ | 
+ | [Mohammed Raffic](https://vexpert.vmware.com/directory/342) | [@vmwarearena](https://twitter.com/vmwarearena) | http://www.vmwarearena.com | 
+ | [Anjani Kumar](https://vexpert.vmware.com/directory/347) | [@anjaniyadav85](https://twitter.com/anjaniyadav85) | http://www.vmwareminds.com/ | 
+ | [Paul Wynne](https://vexpert.vmware.com/directory/426) | [@vdiallstar](https://twitter.com/vdiallstar) | http://mystoragehideout.blogspot.ie/ | 
+ | [Andrea Mauro](https://vexpert.vmware.com/directory/455) | [@andrea_mauro](https://twitter.com/andrea_mauro) | https://vinfrastructure.it | 
+ | [Sungho Hwang](https://vexpert.vmware.com/directory/471) | [@yueisu913](https://twitter.com/yueisu913) | http://virtualhive.tistory.com/ | 
+ | [Masayuki Otsuka](https://vexpert.vmware.com/directory/503) | [@masotsuka](https://twitter.com/masotsuka) | http://vm-fun.blogspot.com | 
+ | [Go Watanabe](https://vexpert.vmware.com/directory/521) | [@gowatana](https://twitter.com/gowatana) |  | 
+ | [Niels Hagoort](https://vexpert.vmware.com/directory/583) | [@nhagoort](https://twitter.com/nhagoort) | http://www.nielshagoort.com | 
+ | [Herco Van Brug](https://vexpert.vmware.com/directory/614) | [@brugh](https://twitter.com/brugh) | http://virtualappliances.eu/#/blog | 
+ | [Michael Wilmsen](https://vexpert.vmware.com/directory/631) | [@wilmsenit.nl](https://twitter.com/wilmsenit.nl) | http://virtual-hike.com | 
+ | [Christian Mohn](https://vexpert.vmware.com/directory/656) | [@h0bbel](https://twitter.com/h0bbel) | https://vninja.net | 
+ | [Mariusz Kaczorek](https://vexpert.vmware.com/directory/673) | [@settlersoman](https://twitter.com/settlersoman) | https://www.settlersoman.com | 
+ | [Johan Marais](https://vexpert.vmware.com/directory/728) | [@pinballas](https://twitter.com/pinballas) |  | 
+ | [Federico Cinalli](https://vexpert.vmware.com/directory/735) | [@fcinallip](https://twitter.com/fcinallip) | http://federicocinalli.com | 
+ | [Leandro Ariel Leonhardt](https://vexpert.vmware.com/directory/751) | [@leonhardtla](https://twitter.com/leonhardtla) | https://www.blogvmware.com | 
+ | [Niclas Borgström](https://vexpert.vmware.com/directory/774) | [@nicke_borgstrom](https://twitter.com/nicke_borgstrom) | http://alt64.se | 
+ | [Erik Bussink](https://vexpert.vmware.com/directory/779) | [@erikbussink](https://twitter.com/erikbussink) | http://www.bussink.ch | 
+ | [Kerem Sugle](https://vexpert.vmware.com/directory/807) | [@ksugle](https://twitter.com/ksugle) | http://www.ksugle.com | 
+ | [Ezzeldin Hussein](https://vexpert.vmware.com/directory/816) | [@ezzeldinhussein](https://twitter.com/ezzeldinhussein) | https://egyptitblog.wordpress.com | 
+ | [James Cruickshank](https://vexpert.vmware.com/directory/855) | [@vcrooky](https://twitter.com/vcrooky) | http://www.vcrooky.com | 
+ | [Chan Ekanayake](https://vexpert.vmware.com/directory/867) | [@chanek81](https://twitter.com/chanek81) | http://chansblog.com | 
+ | [Martin Hosken](https://vexpert.vmware.com/directory/897) | [@hoskenm](https://twitter.com/hoskenm) | http://blogs.vmware.com/vcat/ | 
+ | [Christopher Lewis](https://vexpert.vmware.com/directory/912) | [@thecloudxpert](https://twitter.com/thecloudxpert) | http://www.thecloudxpert.net | 
+ | [Sam Mcgeown](https://vexpert.vmware.com/directory/917) | [@sammcgeown](https://twitter.com/sammcgeown) | http://www.definit.co.uk/ | 
+ | [Paul Mcsharry](https://vexpert.vmware.com/directory/920) | [@pmcsharry](https://twitter.com/pmcsharry) | http://www.elasticsky.co.uk | 
+ | [Anthony Poh](https://vexpert.vmware.com/directory/934) | [@anthony_poh](https://twitter.com/anthony_poh) | http://www.thevirtualunknown.co.uk/ | 
+ | [Chris Porter](https://vexpert.vmware.com/directory/936) | [@uprightvinyl](https://twitter.com/uprightvinyl) | https://blog.uprightvinyl.co.uk/ | 
+ | [Jack Cherkas](https://vexpert.vmware.com/directory/971) | [@jackcherkas](https://twitter.com/jackcherkas) |  | 
+ | [William Lam](https://vexpert.vmware.com/directory/1001) | [@lamw](https://twitter.com/lamw) | http://www.virtuallyghetto.com | 
+ | [Matt Mancini](https://vexpert.vmware.com/directory/1005) | [@vmexplorer](https://twitter.com/vmexplorer) | http://www.vmexplorer.com | 
+ | [Dan Barr](https://vexpert.vmware.com/directory/1045) | [@vdanbarr](https://twitter.com/vdanbarr) |  | 
+ | [Justin Bias](https://vexpert.vmware.com/directory/1056) | [@vaerex](https://twitter.com/vaerex) | https://sddc.life | 
+ | [Aaron Buley](https://vexpert.vmware.com/directory/1083) | [@aaronbuley](https://twitter.com/aaronbuley) | http://www.youtube.com/aaronbuley | 
+ | [Matt Callaway](https://vexpert.vmware.com/directory/1087) | [@_vcallaway](https://twitter.com/_vcallaway) | http://vcallaway.com | 
+ | [Steve Kaplan](https://vexpert.vmware.com/directory/1258) | [@stvkpln](https://twitter.com/stvkpln) |  | 
+ | [Mostafa Khalil](https://vexpert.vmware.com/directory/1266) | [@mostafavmw](https://twitter.com/mostafavmw) | http://vspherestorage.com | 
+ | [Aj Kuftic](https://vexpert.vmware.com/directory/1282) | [@ajkuftic](https://twitter.com/ajkuftic) | http://www.virtualpotholes.com | 
+ | [Scott Lowe](https://vexpert.vmware.com/directory/1302) | [@otherscottlowe](https://twitter.com/otherscottlowe) | http://www.actualtech.io | 
+ | [Ivan Nekrasov](https://vexpert.vmware.com/directory/1364) |  |  | 
+ | [Tony Reeves](https://vexpert.vmware.com/directory/1420) | [@importcarguy](https://twitter.com/importcarguy) | http://www.digitalvspace.com | 
+ | [Max Abelardo ](https://vexpert.vmware.com/directory/1577) | [@mabelard](https://twitter.com/mabelard) |  | 
+ | [Nick Korte](https://vexpert.vmware.com/directory/1596) | [@networknerd_](https://twitter.com/networknerd_) | http://blog.thenetworknerd.com/ | 
+ | [Ken Nalbone](https://vexpert.vmware.com/directory/1599) | [@kennalbone](https://twitter.com/kennalbone) | https://fullstackkengineer.com | 
+ | [Michael Noone](https://vexpert.vmware.com/directory/1600) | [@yinzvirtual](https://twitter.com/yinzvirtual) |  | 
+ | [Naoyuki Inaba](https://vexpert.vmware.com/directory/1667) |  |  | 
+ | [Yamato Sakai](https://vexpert.vmware.com/directory/1668) | [@tw1tter_8010 ](https://twitter.com/tw1tter_8010 ) | https://lab8010.com/ | 
+ | [Mohamad Alhussein](https://vexpert.vmware.com/directory/1785) | [@vexpertconsult](https://twitter.com/vexpertconsult) | http://www.vexpertconsultancy.com | 
+ | [Changju Park](https://vexpert.vmware.com/directory/1968) | [@park03](https://twitter.com/park03) | https://cjnotes.com | 
+ | [Vic Camacho](https://vexpert.vmware.com/directory/2062) | [@virtual_vic](https://twitter.com/virtual_vic) | http://viccamacho.us | 
+ | [Pablo G. Arango](https://vexpert.vmware.com/directory/2243) | [@pabloglezarango](https://twitter.com/pabloglezarango) | https://virtualcloudblog.com/ | 
+ | [Steven Rodenburg](https://vexpert.vmware.com/directory/2795) |  |  | 
+
+---
 ### vSAN Books
 
 _Use right click to open links in new tab/window_
@@ -534,10 +617,11 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
     - added @hari5611
     - added vSAN Blogs Series section
     - added vSAN Health Checks Explained by @hari5611
+    - addes list of vExperts vSAN
 ---
 ### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
 - Tweet new commits
 - Create a Twitter account for the project
-- Add new section - vSAN vExpert List
+- ~~Add new section - vSAN vExpert List~~ 
