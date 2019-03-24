@@ -2,7 +2,7 @@
 
 #awesomevSAN
 
-_Last Update: 2019-03-21_
+_Last Update: 2019-03-23_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -14,8 +14,9 @@ _Last Update: 2019-03-21_
 </div>
 
 ---
-<h2>Content:</h2>
+<h2>Table of Contents:</h2>
 
+- [Temporary Resources](#temporary-resources)
 - [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
 - [Documentation](#documentation)
 - [Download](#download)
@@ -43,7 +44,31 @@ _Last Update: 2019-03-21_
 - [Special Thanks](#special-thanks)
 - [Update Log](#update-log)
 - [ToDo](#todo)
-  
+
+---
+### Temporary Resources
+
+_Use right click to open links in new tab/window_
+
+
+- **VMware vSAN: Performance Best Practices for Geeks**
+
+	Registration Link - http://bit.ly/2UBjfRM
+
+	START DATE:26/03/2019
+
+	START TIME:10:00AM GMT
+
+	DURATION:45 MINUTES
+
+	Božo Popović
+	[@bozopopovic](https://twitter.com/bozopopovic)
+	Calling all #vSAN Geeks. Want to level up your #vSAN operational skills? Join our 26 March webcast: http://bit.ly/2UBjfRM 
+
+	https://twitter.com/bozopopovic/status/1109316412479336449
+
+
+
 ---
 ### vSAN Product info (VMware Official)
 
@@ -128,6 +153,9 @@ _Use right click to open links in new tab/window_
 
 	vsanmetrics is a tool written in Python for collecting usage and performance metrics and health status from a VMware vSAN cluster and translating them in InfluxDB's line protocol.
 	It can be useful to send metrics in a time-serie database like InfluxDB or Graphite with the help of Telegraf and then display metrics in Grafana.
+
+- vSAN Snippets: Reporting Drive Location & More by [Jase McCarty - @jasemccarty ](https://twitter.com/jasemccarty)
+	https://blogs.vmware.com/virtualblocks/2019/03/22/vsan-snippets-reporting-drive-location/
 
 ---
 ### vSAN on VMware {Code}
@@ -605,6 +633,11 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - https://twitter.com/mmagbee
 - https://twitter.com/arielsanchezmor
 
+### Disclaimer
+The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
+
+TL/DR - Tweets are mine and don't represent my employeer. :)
+
 ### Update Log
 - 2019-03-20
     - added tools section
@@ -618,6 +651,10 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
     - added vSAN Blogs Series section
     - added vSAN Health Checks Explained by @hari5611
     - addes list of vExperts vSAN
+- 2019-03-23
+    - added Temporary Resources section
+    - added vSAN Snippets: Reporting Drive Location & More by Jase McCarty
+    - added VMware vSAN: Performance Best Practices for Geeks webinar
 ---
 ### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
