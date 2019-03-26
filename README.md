@@ -2,7 +2,7 @@
 
 #awesomevSAN
 
-_Last Update: 2019-03-23_
+_Last Update: 2019-03-26_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -28,6 +28,7 @@ _Last Update: 2019-03-23_
 	- [SDK](#sdk)
 	- [PowerCLI Cookbook](#powercli-cookbook)
 	- [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
+- [vSAN Home Labs](#vsan-home-labs)
 - [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
 - [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
 - [vSAN Blogs](#vsan-blogs)
@@ -42,6 +43,7 @@ _Last Update: 2019-03-23_
 - [Misc](#misc)
 - [How to contribute](#how-to-contribute)
 - [Special Thanks](#special-thanks)
+- [Disclaimer](#disclaimer)
 - [Update Log](#update-log)
 - [ToDo](#todo)
 
@@ -91,6 +93,8 @@ _Use right click to open links in new tab/window_
 
 - Storage Hub - https://storagehub.vmware.com/
 
+- VMware Knowledge Base (KB) - [vSAN](https://kb.vmware.com/s/global-search/%40uri#t=MoreContent&sort=%40commondate%20descending&f:@commonproduct=[vSAN])
+
 - VMTN Community - https://communities.vmware.com/community/vmtn/vsan/overview
 
 - vSAN Youtube Channel - https://www.youtube.com/channel/UCOQ1cSf37ags3wnn9XEOC6Q
@@ -109,6 +113,11 @@ _Use right click to open links in new tab/window_
 ### Download
 
 - Download VMware vSAN - vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
+
+I strongly recommend you to buy a subscription of VMUG EvalExperience to get you hands on VMware software bits including vSAN
+
+- VMUG EVALExperience - https://www.vmug.com/Join/EVALExperience
+
 
 ---
 ### vSAN Versions Release Notes
@@ -177,6 +186,10 @@ _Use right click to open links in new tab/window_
 #### VMware Sample Exchange - vSAN - @ VMware {Code}
 
 - [All vSAN Code](https://code.vmware.com/samples?categories=Sample&tags=vSAN&keywords=&groups=&filters=&sort=&page=)
+
+---
+### vSAN Home Labs
+
 
 ---
 ### vSAN Hands-ON Labs (HOL)
@@ -249,7 +262,8 @@ _Use right click to open links in new tab/window_
 - http://www.50mu.net/
 - https://serveritpro.wordpress.com/
 - http://virtuallysensei.com/
-  
+- https://www.virtualizationhowto.com/category/virtualization/vmware/vsan/
+- http://vsphere-land.com/vsphere-links/vsan-links.html (Collection of old vSAN links by ) [@ericsiebert](https://twitter.com/ericsiebert)
 
 ---
 #### vSAN Blogs Series
@@ -402,6 +416,10 @@ Technical Support Engineer-II at VMware |vExpert 2018 | VCAP-6/5.5 DCV| vSAN-spe
 [@hari5611](https://twitter.com/hari5611)
 Systems Development Engineer @ #DellEMC R&D. VMware #vExpert 2019, #CiscoChampion 2019, Vmware VTSP-Network Virtualization, HCI & vCloud Foundation.
 
+**Brandon Lee**
+[@vspinmaster](https://twitter.com/vspinmaster)
+#vExpert 2018, IT Pro for 20+ Years, Virtualization enthusiast, geek, home labber, father
+
 ---
 ### vExperts vSAN
 
@@ -489,6 +507,7 @@ _Use right click to open links in new tab/window_
 
 -  [vSAN 6.7U1 Deep Dive book](https://amzn.to/2QR1Gyq) 
 -  [Essential VSAN](http://www.amazon.com/Essential-Virtual-SAN-VSAN-Administrators/dp/0134511662/ref=as_sl_pc_tf_til?tag=httpcormachco-20&linkCode=w00&linkId=N4CVSMZD6YJDWVHO&creativeASIN=0134511662) 
+-  [vSAN Essentials 6.2](https://vsan-essentials.gitbooks.io/vsan-6-2/content/) by [@cormacjhogan](https://twitter.com/cormacjhogan) and [@duncanyb](https://twitter.com/duncanyb) on gitbooks.io
 
 ---
 ### vSAN Youtube Channels / Videos
@@ -655,6 +674,12 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added Temporary Resources section
     - added vSAN Snippets: Reporting Drive Location & More by Jase McCarty
     - added VMware vSAN: Performance Best Practices for Geeks webinar
+- 2019-03-26
+    - added vSAN Home Lab section
+    - added VMware Knowledge Base (KB)
+	- added @vspinmaster
+	- added vSAN links from @ericsiebert
+	- added vSAN KB
 ---
 ### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
