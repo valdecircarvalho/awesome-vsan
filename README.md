@@ -687,3 +687,4 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 - Tweet new commits
 - Create a Twitter account for the project
 - ~~Add new section - vSAN vExpert List~~ 
+- Write better commit messages :)
