@@ -2,7 +2,7 @@
 
 #awesomevSAN
 
-_Last Update: 2019-03-26_
+_Last Update: 2019-03-27_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -14,9 +14,8 @@ _Last Update: 2019-03-26_
 </div>
 
 ---
-<h2>Table of Contents:</h2>
+<h2>Index:</h2>
 
-- [Temporary Resources](#temporary-resources)
 - [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
 - [Documentation](#documentation)
 - [Download](#download)
@@ -46,29 +45,6 @@ _Last Update: 2019-03-26_
 - [Disclaimer](#disclaimer)
 - [Update Log](#update-log)
 - [ToDo](#todo)
-
----
-### Temporary Resources
-
-_Use right click to open links in new tab/window_
-
-
-- **VMware vSAN: Performance Best Practices for Geeks**
-
-	Registration Link - http://bit.ly/2UBjfRM
-
-	START DATE:26/03/2019
-
-	START TIME:10:00AM GMT
-
-	DURATION:45 MINUTES
-
-	Božo Popović
-	[@bozopopovic](https://twitter.com/bozopopovic)
-	Calling all #vSAN Geeks. Want to level up your #vSAN operational skills? Join our 26 March webcast: http://bit.ly/2UBjfRM 
-
-	https://twitter.com/bozopopovic/status/1109316412479336449
-
 
 
 ---
@@ -190,7 +166,19 @@ _Use right click to open links in new tab/window_
 ---
 ### vSAN Home Labs
 
+_Use right click to open links in new tab/window_
 
+- [VMware vSphere 6.7 – Despliegue de tres host ESXi 6.7 y despliegue desde cero de vSAN 6.7 de manera nested](https://www.jorgedelacruz.es/2018/06/25/vmware-vsphere-6-7-despliegue-de-tres-host-esxi-6-7-y-despliegue-desde-cero-de-vsan-6-7-de-manera-nested/) (Spanish) by [@jorgedlcruz](https://twitter.com/jorgedlcruz) 
+
+- [Create a VMware vSAN 6.7 U1 Nested ESXi Lab](https://www.virtualizationhowto.com/2018/12/create-a-vmware-vsan-6-7-u1-nested-esxi-lab/)
+- [VMware vSAN Home Lab Hardware Failure and Resiliency](https://www.virtualizationhowto.com/2018/11/vmware-vsan-home-lab-hardware-failure-and-resiliency/)
+- [How I designed my VMware vSAN based Home Lab](https://www.sqlpassion.at/archive/2018/01/15/how-i-designed-my-vmware-vsan-based-home-lab/)
+- [HOMELABS? THIS IS WHAT WE HAVE CHOSEN FOR 2018](https://itq.nl/homelabs-this-is-what-we-have-chosen-for-2018/)
+- [My vSAN LAB](https://blog.linoproject.net/my-vsan-lab/)
+- [Homelab Setup Part 2 – vSAN Configuration](https://gazflynn.com/technology/vmware/homelab-setup-part-2-vsan-configuration/)
+- [vSAN Home Lab](https://medium.com/@timothy.borland/vsan-home-lab-79c9d994a27c)
+- [VMware vSAN Homelab with Tony Reeves (@importcarguy)](https://vbrownbag.com/2018/03/vmware-vsan-homelab-with-tony-reeves-importcarguy/)
+- 
 ---
 ### vSAN Hands-ON Labs (HOL)
 
@@ -264,6 +252,7 @@ _Use right click to open links in new tab/window_
 - http://virtuallysensei.com/
 - https://www.virtualizationhowto.com/category/virtualization/vmware/vsan/
 - http://vsphere-land.com/vsphere-links/vsan-links.html (Collection of old vSAN links by ) [@ericsiebert](https://twitter.com/ericsiebert)
+- https://vmiss.net/2018/04/05/the-cheap-and-easy-way-to-get-started-with-vmware-vsan/ (The Cheap and Easy Way to Get Started with VMware vSAN by) [@vmiss33](https://twitter.com/vmiss33)
 
 ---
 #### vSAN Blogs Series
@@ -324,6 +313,11 @@ High Tech Girl in High Heels, SVP/GM Storage and Availability @VMware, Mom of 3.
 **Ron Singler**
 [@rsingler_](https://twitter.com/rsingler_)
 Director of Technology, Storage & Availability @VMware - My views/opinions are my own…
+
+**Christos Karamanolis**
+[@XtosK](https://twitter.com/XtosK)
+Fellow @VMware. CTO, Storage & Availability. VSAN architect. Building software products, not just technologies. Opinions are mine.
+
 
 **Josh Fidel**
 [@jcefidel](https://twitter.com/jcefidel)
@@ -519,6 +513,7 @@ _Use right click to open links in new tab/window_
 - [VMworld 2017 - vSAN Playlist](https://www.youtube.com/playlist?list=PLHYKlysU7mcUyxDIMUZcnZqoS0YIWQ-YD) by [@duncanyb](https://twitter.com/duncanyb)
 - [Introdução VMware vSAN - PT-BR](https://www.youtube.com/watch?v=0fbc_LthTrY&list=PLAh5KLOvimbhcmYdXQz41TMSPTo_AK9Dx) by [John Costa](https://twitter.com/johncostaaraujo)
 - [Tech Stand Up Episode 20 – Getting Started with VMware vSAN for Free](https://nerdblurt.com/tech-stand-up-episode-20-getting-started-with-vmware-vsan-for-free/) by [Luigi Danakos @nerdBlurt](https://twitter.com/NerdBlurt)
+- [vBrownBag vSAN videos](https://vbrownbag.com/?s=vSAN) [@vBrownBag](https://twitter.com/vBrownBag)
 
 ---
 ### VMworld 2018 - vSAN Presentations & Videos
@@ -680,6 +675,13 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 	- added @vspinmaster
 	- added vSAN links from @ericsiebert
 	- added vSAN KB
+- 2019-03-27
+    - added @XtosK
+    - added @jorgedlcruz vSAN lab
+    - added @vmiss33 vSAN links
+    - added @vBrownBag vSAN videos
+    - added new links to vSAN Home Lab section
+    - removed vSAN Temporary resources section
 ---
 ### ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
