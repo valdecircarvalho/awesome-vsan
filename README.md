@@ -1,6 +1,6 @@
 <center> <H1>Awesome vSAN - A Community List of AWESOME VMware vSAN Resources </H1> </center>
 
-#awesomevSAN
+#AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
 _Last Update: 2019-03-28_
 
