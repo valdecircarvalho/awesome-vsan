@@ -2,7 +2,7 @@
 
 #awesomevSAN
 
-_Last Update: 2019-03-27_
+_Last Update: 2019-03-28_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -18,27 +18,27 @@ _Last Update: 2019-03-27_
 
 - [vSAN Product info (VMware Official)](#vsan-product-info-vmware-official)
 - [Documentation](#documentation)
-- [Download](#download)
+- [Downloads](#downloads)
 - [vSAN Versions Release Notes](#vsan-versions-release-notes)
 - [vSAN End Of Support](#vsan-end-of-support)
 - [VMware Flings - vSAN](#vmware-flings---vsan)
 - [Tools](#tools)
 - [vSAN on VMware {Code}](#vsan-on-vmware-code)
-	- [SDK](#sdk)
-	- [PowerCLI Cookbook](#powercli-cookbook)
-	- [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
+  - [SDK](#sdk)
+  - [PowerCLI Cookbook](#powercli-cookbook)
+  - [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
 - [vSAN Home Labs](#vsan-home-labs)
 - [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
 - [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
 - [vSAN Blogs](#vsan-blogs)
-	- [vSAN Blogs Series](#vsan-blogs-series)
+- [vSAN Blogs Series](#vsan-blogs-series)
 - [vSAN Twitter List](#vsan-twitter-list)
 - [vExperts vSAN](#vexperts-vsan)
 - [vSAN Books](#vsan-books)
 - [vSAN Youtube Channels / Videos](#vsan-youtube-channels--videos)
 - [VMworld 2018 - vSAN Presentations & Videos](#vmworld-2018---vsan-presentations--videos)
-	- [VMworld US](#vmworld-us)
-	- [VMworld Europe](#vmworld-europe)
+  - [VMworld US](#vmworld-us)
+  - [VMworld Europe](#vmworld-europe)
 - [Misc](#misc)
 - [How to contribute](#how-to-contribute)
 - [Special Thanks](#special-thanks)
@@ -46,9 +46,8 @@ _Last Update: 2019-03-27_
 - [Update Log](#update-log)
 - [ToDo](#todo)
 
-
 ---
-### vSAN Product info (VMware Official)
+# vSAN Product info (VMware Official)
 
 _Use right click to open links in new tab/window_
 
@@ -59,7 +58,7 @@ _Use right click to open links in new tab/window_
 - Product Page - https://www.vmware.com/es/products/vsan.html - Spanish
 
 ---
-### Documentation
+# Documentation
 
 _Use right click to open links in new tab/window_
 
@@ -86,7 +85,7 @@ _Use right click to open links in new tab/window_
 - Compare vSAN Editions and Features - https://www.vmware.com/products/vsan.html#compare
 
 ---
-### Download
+# Downloads
 
 - Download VMware vSAN - vSAN Product Evaluation - https://my.vmware.com/en/web/vmware/evalcenter?p=vsan-6
 
@@ -94,9 +93,8 @@ I strongly recommend you to buy a subscription of VMUG EvalExperience to get you
 
 - VMUG EVALExperience - https://www.vmug.com/Join/EVALExperience
 
-
 ---
-### vSAN Versions Release Notes
+# vSAN Versions Release Notes
 
 _Use right click to open links in new tab/window_
 
@@ -110,7 +108,7 @@ _Use right click to open links in new tab/window_
 - [VMware Virtual SAN 6.0 Release Notes](https://docs.vmware.com/en/VMware-vSphere/6.0/rn/vmware-virtual-san-60-release-notes.html)
 
 ---
-### vSAN End Of Support
+# vSAN End Of Support
 
 _Use right click to open links in new tab/window_
 
@@ -123,7 +121,7 @@ _Use right click to open links in new tab/window_
 Source - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
 
 ---
-### VMware Flings - vSAN
+# VMware Flings - vSAN
 
 _Use right click to open links in new tab/window_
 
@@ -132,7 +130,7 @@ _Use right click to open links in new tab/window_
 - [HCIBench](https://labs.vmware.com/flings/hcibench)
 
 ---
-### Tools
+# Tools
 
 - [vsanmetrics](https://github.com/equelin/vsanmetrics) by [Erwan Quélin @erwanquelin](https://twitter.com/erwanquelin)
 
@@ -142,29 +140,32 @@ _Use right click to open links in new tab/window_
 - vSAN Snippets: Reporting Drive Location & More by [Jase McCarty - @jasemccarty ](https://twitter.com/jasemccarty)
 	https://blogs.vmware.com/virtualblocks/2019/03/22/vsan-snippets-reporting-drive-location/
 
+-  [vSAN HCL Viewer Tool](https://hcl.captain-vsan.com/index.php) by [@HaraldRuppert](https://twitter.com/HaraldRuppert) - [Source Code](https://github.com/HaraldRuppert/vsan-hcl) Thanks [Andrey Timofeev](https://www.linkedin.com/in/it-pilot/)
+
+
 ---
-### vSAN on VMware {Code}
+# vSAN on VMware {Code}
 
 _Use right click to open links in new tab/window_
 
-#### SDK
+## SDK
 - vSAN Management SDK for Java - https://code.vmware.com/web/sdk/6.7U1/vsan-java
 - vSAN Management SDK for .NET - https://code.vmware.com/web/sdk/6.7U1/vsan-dotnet
 - vSAN Management SDK for Perl - https://code.vmware.com/web/sdk/6.7U1/vsan-perl
 - vSAN Management SDK for Python - https://code.vmware.com/web/sdk/6.7U1/vsan-python
 - vSAN Management SDK for Ruby - https://code.vmware.com/web/sdk/6.7U1/vsan-ruby
 
-#### PowerCLI Cookbook
+## PowerCLI Cookbook
 - [PowerCLI Cookbook for VMware vSAN - vv1.4](https://storagehub.vmware.com/section-assets/powercli-cookbook-for-vsan)
 - [vSAN API Cookbook for Python](https://storagehub.vmware.com/t/vmware-vsan/vsan-api-cookbook-for-python/)
 
 
-#### VMware Sample Exchange - vSAN - @ VMware {Code}
+## VMware Sample Exchange - vSAN - @ VMware {Code}
 
 - [All vSAN Code](https://code.vmware.com/samples?categories=Sample&tags=vSAN&keywords=&groups=&filters=&sort=&page=)
 
 ---
-### vSAN Home Labs
+# vSAN Home Labs
 
 _Use right click to open links in new tab/window_
 
@@ -178,9 +179,9 @@ _Use right click to open links in new tab/window_
 - [Homelab Setup Part 2 – vSAN Configuration](https://gazflynn.com/technology/vmware/homelab-setup-part-2-vsan-configuration/)
 - [vSAN Home Lab](https://medium.com/@timothy.borland/vsan-home-lab-79c9d994a27c)
 - [VMware vSAN Homelab with Tony Reeves (@importcarguy)](https://vbrownbag.com/2018/03/vmware-vsan-homelab-with-tony-reeves-importcarguy/)
-- 
+
 ---
-### vSAN Hands-ON Labs (HOL)
+# vSAN Hands-ON Labs (HOL)
 
 _Use right click to open links in new tab/window_
 
@@ -205,7 +206,7 @@ Configure VMware vCloud Director for Service Providers with VMware NSX, VMware v
 https://labs.hol.vmware.com/HOL/catalogs/lab/4671
 
 ---
-### Virtually Speaking Podcast Episodes (vSAN)
+# Virtually Speaking Podcast Episodes (vSAN)
 
 _Use right click to open links in new tab/window_
 
@@ -230,7 +231,7 @@ _Use right click to open links in new tab/window_
 	http://www.vspeakingpodcast.com/episodes?tag=vSAN
 
 ---
-### vSAN Blogs
+# vSAN Blogs
 
 _Use right click to open links in new tab/window_
 
@@ -255,7 +256,7 @@ _Use right click to open links in new tab/window_
 - https://vmiss.net/2018/04/05/the-cheap-and-easy-way-to-get-started-with-vmware-vsan/ (The Cheap and Easy Way to Get Started with VMware vSAN by) [@vmiss33](https://twitter.com/vmiss33)
 
 ---
-#### vSAN Blogs Series
+# vSAN Blogs Series
 
 _Use right click to open links in new tab/window_
 
@@ -267,7 +268,7 @@ _Use right click to open links in new tab/window_
   - Part 4 - https://serveritpro.wordpress.com/2019/03/22/vsan-health-checks-explained-part-4/
 
 ---
-### vSAN Twitter List
+# vSAN Twitter List
 
 _Use right click to open links in new tab/window_
 
@@ -282,6 +283,7 @@ https://twitter.com/hashtag/vsanchat?f=tweets&vertical=default&src=hash
 https://twitter.com/flaborea/lists/vsan-who-to-follow
 
 ---
+
 **VMware vSAN**
 [@vmwarevsan](https://twitter.com/vmwarevsan) - Twitter Official
 VMware vSAN is a software-defined, enterprise storage solution powering industry-leading hyperconverged infrastructure systems. #vSANChat
@@ -317,7 +319,6 @@ Director of Technology, Storage & Availability @VMware - My views/opinions are m
 **Christos Karamanolis**
 [@XtosK](https://twitter.com/XtosK)
 Fellow @VMware. CTO, Storage & Availability. VSAN architect. Building software products, not just technologies. Opinions are mine.
-
 
 **Josh Fidel**
 [@jcefidel](https://twitter.com/jcefidel)
@@ -357,7 +358,7 @@ Christian | Husband | Father | Sr. SE vSAN/HCI @VMware - Tweets are my own. #vEx
 
 **Jeff Hunter (vmware)**
 [@jhuntervmware](https://twitter.com/jhuntervmware)
-#VMware Group Manager, #vSAN Technical Marketing. Christ follower. Husband. Dad. Jeep owner. Tweets are mine, not the official position of my employer.
+VMware Group Manager, #vSAN Technical Marketing. Christ follower. Husband. Dad. Jeep owner. Tweets are mine, not the official position of my employer.
 
 **Myles Gray**
 [@mylesagray](https://twitter.com/mylesagray)
@@ -412,10 +413,14 @@ Systems Development Engineer @ #DellEMC R&D. VMware #vExpert 2019, #CiscoChampio
 
 **Brandon Lee**
 [@vspinmaster](https://twitter.com/vspinmaster)
-#vExpert 2018, IT Pro for 20+ Years, Virtualization enthusiast, geek, home labber, father
+vExpert 2018, IT Pro for 20+ Years, Virtualization enthusiast, geek, home labber, father
+
+**Harald Ruppert**
+[@HaraldRuppert](https://twitter.com/HaraldRuppert)
+vSAN Escalation Engineer @vmwarecork. May contain non-work related posts. All tweets are my own
 
 ---
-### vExperts vSAN
+# vExperts vSAN
 
 _Use right click to open links in new tab/window_
 
@@ -495,7 +500,7 @@ https://vexpert.vmware.com/directory
  | [Steven Rodenburg](https://vexpert.vmware.com/directory/2795) |  |  | 
 
 ---
-### vSAN Books
+# vSAN Books
 
 _Use right click to open links in new tab/window_
 
@@ -504,7 +509,7 @@ _Use right click to open links in new tab/window_
 -  [vSAN Essentials 6.2](https://vsan-essentials.gitbooks.io/vsan-6-2/content/) by [@cormacjhogan](https://twitter.com/cormacjhogan) and [@duncanyb](https://twitter.com/duncanyb) on gitbooks.io
 
 ---
-### vSAN Youtube Channels / Videos
+# vSAN Youtube Channels / Videos
 
 _Use right click to open links in new tab/window_
 
@@ -516,9 +521,9 @@ _Use right click to open links in new tab/window_
 - [vBrownBag vSAN videos](https://vbrownbag.com/?s=vSAN) [@vBrownBag](https://twitter.com/vBrownBag)
 
 ---
-### VMworld 2018 - vSAN Presentations & Videos
+# VMworld 2018 - vSAN Presentations & Videos
 
-#### VMworld US
+## VMworld US
 
 _Use right click to open links in new tab/window_
 
@@ -580,7 +585,7 @@ Session | Title | Stream | Download | PDF
 |WIN3450BU | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/22260) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3450BU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/WIN3450BU.pdf)|
 
 
-#### VMworld Europe
+## VMworld Europe
 
 _Use right click to open links in new tab/window_
 
@@ -621,19 +626,19 @@ Session | Title | Stream | Download | PDF
 |WIN3450BE | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/26250) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2018/WIN3450BE.mp4) | NO PDF POSTED|
 
 ---
-### Misc
+# Misc
 
 _Use right click to open links in new tab/window_
 
 - vSAN Stickers art by [@duncanyb](https://twitter.com/duncanyb) - http://www.yellow-bricks.com/stickersshirts/
   
 ---
-### How to contribute
+# How to contribute
 
 Read the [How to collaborate document](n/blob/master/CONTRIBUTE.MD)
 
 ---
-### Special Thanks
+# Special Thanks
 
 Special Thanks for all the community members who helped me to come up with this first version.
 Everything started with this [single tweet](https://twitter.com/homelaber/status/1103370599408324611) 
@@ -647,12 +652,12 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 - https://twitter.com/mmagbee
 - https://twitter.com/arielsanchezmor
 
-### Disclaimer
+# Disclaimer
 The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
 
 TL/DR - Tweets are mine and don't represent my employeer. :)
 
-### Update Log
+# Update Log
 - 2019-03-20
     - added tools section
     - added vsanmetrics
@@ -682,8 +687,12 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added @vBrownBag vSAN videos
     - added new links to vSAN Home Lab section
     - removed vSAN Temporary resources section
+- 2019-03-28
+    - added @HaraldRuppert - Twitter section
+    - added vSAN HCL Viewer Tool - Tools section
+    - updated TOC
 ---
-### ToDo
+# ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
 - Tweet new commits
