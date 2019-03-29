@@ -142,6 +142,8 @@ _Use right click to open links in new tab/window_
 
 -  [vSAN HCL Viewer Tool](https://hcl.captain-vsan.com/index.php) by [@HaraldRuppert](https://twitter.com/HaraldRuppert) - [Source Code](https://github.com/HaraldRuppert/vsan-hcl) Thanks [Andrey Timofeev](https://www.linkedin.com/in/it-pilot/)
 
+- [vDocumentation](https://github.com/arielsanchezmora/vDocumentation) by [@arielsanchezmor](https://twitter.com/arielsanchezmor) [@edmsanchez13](https://twitter.com/edmsanchez13) [@jpsider](https://twitter.com/edmsanchez13)  Thanks [Grahan Barker](https://twitter.com/VirtualG_UK)
+
 
 ---
 # vSAN on VMware {Code}
@@ -266,6 +268,7 @@ _Use right click to open links in new tab/window_
   - Part 2 - https://serveritpro.wordpress.com/2019/02/01/vsan-health-checks-explained-part-2/
   - Part 3 - https://serveritpro.wordpress.com/2019/03/11/vsan-health-checks-explained-part-3/
   - Part 4 - https://serveritpro.wordpress.com/2019/03/22/vsan-health-checks-explained-part-4/
+  - Part 5 - https://serveritpro.wordpress.com/2019/03/29/vsan-health-checks-explained-part-5/
 
 ---
 # vSAN Twitter List
@@ -691,6 +694,12 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added @HaraldRuppert - Twitter section
     - added vSAN HCL Viewer Tool - Tools section
     - updated TOC
+- 2019-03-29
+    - added vSAN 6.7U1 Health Checks Explained Pt 5 by @hari5611 
+    - added #vDocumentation by by [@arielsanchezmor](https://twitter.com/arielsanchezmor) [@edmsanchez13](https://twitter.com/edmsanchez13) [@jpsider](https://twitter.com/edmsanchez13)  Thanks [Grahan Barker](https://twitter.com/VirtualG_UK)
+    - fixed How to Contribute Link
+
+
 ---
 # ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
