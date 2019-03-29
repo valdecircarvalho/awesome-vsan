@@ -144,6 +144,9 @@ _Use right click to open links in new tab/window_
 
 - [vDocumentation](https://github.com/arielsanchezmora/vDocumentation) by [@arielsanchezmor](https://twitter.com/arielsanchezmor) [@edmsanchez13](https://twitter.com/edmsanchez13) [@jpsider](https://twitter.com/edmsanchez13)  Thanks [Grahan Barker](https://twitter.com/VirtualG_UK)
 
+- [sexigraf](http://www.sexigraf.fr/) by [Raphael Schitz @hypervisor_fr](https://twitter.com/hypervisor_fr) and [Frédéric Martin @vmdude_fr](https://twitter.com/vmdude_fr)
+
+	SexiGraf is a fully open-source vSphere centric Graphite VMware appliance with a Grafana frontend. It pulls VI and VSAN metrics from VMware vCenter APIs, push them to Graphite and let Grafana produces the gorgeous dashboards we love so much!
 
 ---
 # vSAN on VMware {Code}
@@ -698,6 +701,7 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added vSAN 6.7U1 Health Checks Explained Pt 5 by @hari5611 
     - added #vDocumentation by @arielsanchezmor @edmsanchez13 @jpsider Thanks @VirtualG_UK
     - fixed How to Contribute Link
+    - added Sexigraf in tool's section
 
 
 ---
