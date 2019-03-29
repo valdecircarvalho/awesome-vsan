@@ -635,7 +635,7 @@ _Use right click to open links in new tab/window_
 ---
 # How to contribute
 
-Read the [How to collaborate document](n/blob/master/CONTRIBUTE.MD)
+Read the [How to collaborate document](CONTRIBUTE.MD)
 
 ---
 # Special Thanks
