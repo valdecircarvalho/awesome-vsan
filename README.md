@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-03-28_
+_Last Update: 2019-03-29_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -696,7 +696,7 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - updated TOC
 - 2019-03-29
     - added vSAN 6.7U1 Health Checks Explained Pt 5 by @hari5611 
-    - added #vDocumentation by by [@arielsanchezmor](https://twitter.com/arielsanchezmor) [@edmsanchez13](https://twitter.com/edmsanchez13) [@jpsider](https://twitter.com/edmsanchez13)  Thanks [Grahan Barker](https://twitter.com/VirtualG_UK)
+    - added #vDocumentation by @arielsanchezmor @edmsanchez13 @jpsider Thanks @VirtualG_UK
     - fixed How to Contribute Link
 
 
