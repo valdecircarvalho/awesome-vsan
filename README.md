@@ -701,6 +701,7 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added vSAN 6.7U1 Health Checks Explained Pt 5 by @hari5611 
     - added #vDocumentation by @arielsanchezmor @edmsanchez13 @jpsider Thanks @VirtualG_UK
     - fixed How to Contribute Link
+    - added Sexigraf in tool's section
 
 
 ---
