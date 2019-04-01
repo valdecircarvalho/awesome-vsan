@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-04-01_
+_Last Update: 2019-04-02_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -25,13 +25,17 @@ _Last Update: 2019-04-01_
 - [Quick Tips](#quick-tips)
 - [Tools](#tools)
 - [vSAN on VMware {Code}](#vsan-on-vmware-code)
-  - [SDK](#sdk)
+  - [vSAN API](#vsan-api)
+  - [vSAN SDK](#vsan-sdk)
   - [PowerCLI Cookbook](#powercli-cookbook)
   - [VMware Sample Exchange - vSAN - @ VMware {Code}](#vmware-sample-exchange---vsan----vmware-code)
 - [vSAN Home Labs](#vsan-home-labs)
 - [vSAN Hands-ON Labs (HOL)](#vsan-hands-on-labs-hol)
 - [Virtually Speaking Podcast Episodes (vSAN)](#virtually-speaking-podcast-episodes-vsan)
 - [vSAN Blogs](#vsan-blogs)
+  - [vSAN Blogs in Spanish](#vsan-blogs-in-spanish)
+  - [vSAN Blogs in Portuguese](#vsan-blogs-in-portuguese)
+  - [vSAN Blogs in Non-English Languages](#vsan-blogs-in-non-english-languages)
 - [vSAN Blogs Series](#vsan-blogs-series)
 - [vSAN Twitter List](#vsan-twitter-list)
 - [vExperts vSAN](#vexperts-vsan)
@@ -165,7 +169,13 @@ _Use right click to open links in new tab/window_
 
 _Use right click to open links in new tab/window_
 
-## SDK
+
+## vSAN API
+- [vSAN Management API - v 6.7](https://code.vmware.com/apis/398/vsan)
+- [vSAN Management API - v 6.6.1](https://code.vmware.com/apis/217)
+- [vSAN Management API - v 6.5](https://code.vmware.com/apis/200)
+
+## vSAN SDK
 - vSAN Management SDK for Java - https://code.vmware.com/web/sdk/6.7U1/vsan-java
 - vSAN Management SDK for .NET - https://code.vmware.com/web/sdk/6.7U1/vsan-dotnet
 - vSAN Management SDK for Perl - https://code.vmware.com/web/sdk/6.7U1/vsan-perl
@@ -175,7 +185,6 @@ _Use right click to open links in new tab/window_
 ## PowerCLI Cookbook
 - [PowerCLI Cookbook for VMware vSAN - vv1.4](https://storagehub.vmware.com/section-assets/powercli-cookbook-for-vsan)
 - [vSAN API Cookbook for Python](https://storagehub.vmware.com/t/vmware-vsan/vsan-api-cookbook-for-python/)
-
 
 ## VMware Sample Exchange - vSAN - @ VMware {Code}
 
@@ -255,6 +264,7 @@ _Use right click to open links in new tab/window_
 - http://www.yellow-bricks.com/
 - http://www.cormachogan.com/
 - http://www.virtuallyghetto.com/
+- http://www.virtu-al.net/?s=vsan
 - http://thenicholson.com/
 - https://storagemojo.com/
 - http://storagegaga.com/
@@ -272,6 +282,18 @@ _Use right click to open links in new tab/window_
 - http://vsphere-land.com/vsphere-links/vsan-links.html (Collection of old vSAN links by ) [@ericsiebert](https://twitter.com/ericsiebert)
 - https://vmiss.net/2018/04/05/the-cheap-and-easy-way-to-get-started-with-vmware-vsan/ (The Cheap and Easy Way to Get Started with VMware vSAN by) [@vmiss33](https://twitter.com/vmiss33)
 
+## vSAN Blogs in Spanish
+
+- [Consideraciones para ejecutar cargas de trabajo de Microsoft SQL en VMware vSAN](https://www.vmugcr.com/2019/04/01/consideraciones-para-ejecutar-cargas-de-trabajo-de-microsoft-sql-en-vmware-vsan/) by [@costaricavmug](https://twitter.com/costaricavmug)
+
+## vSAN Blogs in Portuguese
+
+- https://solutions4crowds.com.br/?s=vsan by [@ricardoconzatti](https://twitter.com/RicardoConzatti)
+
+## vSAN Blogs in Non-English Languages
+
+- 
+
 ---
 # vSAN Blogs Series
 
@@ -284,6 +306,7 @@ _Use right click to open links in new tab/window_
   - Part 3 - https://serveritpro.wordpress.com/2019/03/11/vsan-health-checks-explained-part-3/
   - Part 4 - https://serveritpro.wordpress.com/2019/03/22/vsan-health-checks-explained-part-4/
   - Part 5 - https://serveritpro.wordpress.com/2019/03/29/vsan-health-checks-explained-part-5/
+
 
 ---
 # vSAN Twitter List
@@ -436,6 +459,14 @@ vExpert 2018, IT Pro for 20+ Years, Virtualization enthusiast, geek, home labber
 **Harald Ruppert**
 [@HaraldRuppert](https://twitter.com/HaraldRuppert)
 vSAN Escalation Engineer @vmwarecork. May contain non-work related posts. All tweets are my own
+
+**Alan Renouf**
+[@alanrenouf](https://twitter.com/alanrenouf/)
+Sr Product Line Manager for XR (VR/AR/MR) at VMware
+
+**Ricardo Conzatti**
+[@RicardoConzatti](https://twitter.com/RicardoConzatti)
+vExpert, VCAP6-DCV, VCP5/6/6.5-DCV, VCP6/7-CMA, MCSE, @vBrownBagBrasil host, @vmugpr and @vugbrasil leader #vExpert #Blogger #VMUG #vCommunity #ScriptLover
 
 ---
 # vExperts vSAN
@@ -717,12 +748,20 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 - 2019-04-01
     - added Quick Tips section
     - added Dell VSAN Ready Node: What is the Default VMWare ESXi Root password for 14G Servers? by @DellAjudaPRO
+- 2019-04-02
+    - added vSAN API section - thanks @lamw
+    - added vSAN post at @alanrenouf blog (how did I miss that one?)
+    - added vSAN in Portuguese, Spanish and Non-English sections
+    - added Consideraciones para ejecutar cargas de trabajo de Microsoft SQL en VMware vSAN by @costaricavmug
+    - added @alanrenouf and @ricardoconzatti to twitter section
+    - added solutionsforcrowds to PT-BR blog section
+    - updated ToC
 
 ---
 # ToDo
 - ~~Create the Table of Contents links~~ 2019-03-20
 - Improve the community update process
-- Tweet new commits
+- ~~Tweet new commits~~ - need to automate this
 - Create a Twitter account for the project
 - ~~Add new section - vSAN vExpert List~~ 
-- Write better commit messages :)
+- ~~Write better commit messages :)~~
