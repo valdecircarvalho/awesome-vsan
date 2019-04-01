@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-03-29_
+_Last Update: 2019-04-01_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -22,6 +22,7 @@ _Last Update: 2019-03-29_
 - [vSAN Versions Release Notes](#vsan-versions-release-notes)
 - [vSAN End Of Support](#vsan-end-of-support)
 - [VMware Flings - vSAN](#vmware-flings---vsan)
+- [Quick Tips](#quick-tips)
 - [Tools](#tools)
 - [vSAN on VMware {Code}](#vsan-on-vmware-code)
   - [SDK](#sdk)
@@ -129,8 +130,19 @@ _Use right click to open links in new tab/window_
 
 - [HCIBench](https://labs.vmware.com/flings/hcibench)
 
+
+---
+# Quick Tips
+
+_Use right click to open links in new tab/window_
+
+- [Dell VSAN Ready Node: What is the Default VMWare ESXi Root password for 14G Servers?](https://www.dell.com/support/article/br/pt/brbsdt1/qna44193/dell-vsan-ready-node-what-is-the-default-vmware-esxi-root-password-for-14g-servers?lang=en) by [@DellAjudaPRO](https://twitter.com/DellAjudaPRO)
+
+
 ---
 # Tools
+
+_Use right click to open links in new tab/window_
 
 - [vsanmetrics](https://github.com/equelin/vsanmetrics) by [Erwan Quélin @erwanquelin](https://twitter.com/erwanquelin)
 
@@ -702,7 +714,9 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added #vDocumentation by @arielsanchezmor @edmsanchez13 @jpsider Thanks @VirtualG_UK
     - fixed How to Contribute Link
     - added Sexigraf in tool's section
-
+- 2019-04-01
+    - added Quick Tips section
+    - added Dell VSAN Ready Node: What is the Default VMWare ESXi Root password for 14G Servers? by @DellAjudaPRO
 
 ---
 # ToDo
