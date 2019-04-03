@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-04-02_
+_Last Update: 2019-04-03_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -36,6 +36,7 @@ _Last Update: 2019-04-02_
   - [vSAN Blogs in Spanish](#vsan-blogs-in-spanish)
   - [vSAN Blogs in Portuguese](#vsan-blogs-in-portuguese)
   - [vSAN Blogs in Non-English Languages](#vsan-blogs-in-non-english-languages)
+    - [German](#german)
 - [vSAN Blogs Series](#vsan-blogs-series)
 - [vSAN Twitter List](#vsan-twitter-list)
 - [vExperts vSAN](#vexperts-vsan)
@@ -284,6 +285,7 @@ _Use right click to open links in new tab/window_
 
 ## vSAN Blogs in Spanish
 
+- vSAN related posts @ VMware LATAM Blog https://blogs.vmware.com/latam/vsan
 - [Consideraciones para ejecutar cargas de trabajo de Microsoft SQL en VMware vSAN](https://www.vmugcr.com/2019/04/01/consideraciones-para-ejecutar-cargas-de-trabajo-de-microsoft-sql-en-vmware-vsan/) by [@costaricavmug](https://twitter.com/costaricavmug)
 
 ## vSAN Blogs in Portuguese
@@ -292,7 +294,9 @@ _Use right click to open links in new tab/window_
 
 ## vSAN Blogs in Non-English Languages
 
-- 
+### German
+
+- Virtually Fabian by [@fabianwiese](https://twitter.com/FabianWiese) - http://fabianwiese.de/category/vsan/ - German
 
 ---
 # vSAN Blogs Series
@@ -467,6 +471,10 @@ Sr Product Line Manager for XR (VR/AR/MR) at VMware
 **Ricardo Conzatti**
 [@RicardoConzatti](https://twitter.com/RicardoConzatti)
 vExpert, VCAP6-DCV, VCP5/6/6.5-DCV, VCP6/7-CMA, MCSE, @vBrownBagBrasil host, @vmugpr and @vugbrasil leader #vExpert #Blogger #VMUG #vCommunity #ScriptLover
+
+**Fabian Wiese**
+[@FabianWiese](https://twitter.com/FabianWiese)
+Senior HCI Specialist SE @VMware | VCP-DCV | VCAP-DCD | vSAN Specialist | vExpert 2019 | Tweets are my own
 
 ---
 # vExperts vSAN
@@ -756,6 +764,10 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added @alanrenouf and @ricardoconzatti to twitter section
     - added solutionsforcrowds to PT-BR blog section
     - updated ToC
+- 2019-04-03
+    - added @fabianwiese
+    - added Virtually Fabian by @fabianwiese
+    - added vmw latam blog by @GreatWhiteTec 
 
 ---
 # ToDo
@@ -764,4 +776,5 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 - ~~Tweet new commits~~ - need to automate this
 - Create a Twitter account for the project
 - ~~Add new section - vSAN vExpert List~~ 
+
 - ~~Write better commit messages :)~~
