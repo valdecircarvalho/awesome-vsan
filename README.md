@@ -133,7 +133,15 @@ _Use right click to open links in new tab/window_
 
 - [vSAN Hardware Compatibility List Checker](https://labs.vmware.com/flings/vsan-hardware-compatibility-list-checker)
 
-- [HCIBench](https://labs.vmware.com/flings/hcibench)
+- [HCIBench](https://labs.vmware.com/flings/hcibench) Updated on April 04, 2019
+  
+  HCIBench 2.0 highlights:
+
+  - Added fio as an alternative workload generator
+  - Added Grafana for workload live monitoring
+  - Switched UI to clarity
+  - Allow user to select one to four cases while using easy-run
+  - Bug fixes hopefully without introducing new bugs
 
 
 ---
@@ -767,7 +775,9 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 - 2019-04-03
     - added @fabianwiese
     - added Virtually Fabian by @fabianwiese
-    - added vmw latam blog by @GreatWhiteTec 
+    - added vmw latam blog by @GreatWhiteTec
+- 2019-04-08
+    - updated HCIBench 2.0
 
 ---
 # ToDo
