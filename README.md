@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-04-03_
+_Last Update: 2019-04-09_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -24,6 +24,7 @@ _Last Update: 2019-04-03_
 - [VMware Flings - vSAN](#vmware-flings---vsan)
 - [Quick Tips](#quick-tips)
 - [Tools](#tools)
+- [VxRail](#vxrail)
 - [vSAN on VMware {Code}](#vsan-on-vmware-code)
   - [vSAN API](#vsan-api)
   - [vSAN SDK](#vsan-sdk)
@@ -172,6 +173,38 @@ _Use right click to open links in new tab/window_
 - [sexigraf](http://www.sexigraf.fr/) by [Raphael Schitz @hypervisor_fr](https://twitter.com/hypervisor_fr) and [Frédéric Martin @vmdude_fr](https://twitter.com/vmdude_fr)
 
 	SexiGraf is a fully open-source vSphere centric Graphite VMware appliance with a Grafana frontend. It pulls VI and VSAN metrics from VMware vCenter APIs, push them to Graphite and let Grafana produces the gorgeous dashboards we love so much!
+
+---
+# VxRail
+
+_Use right click to open links in new tab/window_
+
+Powered by VMware vSAN and Dell EMC PowerEdge servers, VxRail is the only fully integrated, pre-configured, and pre-tested VMware hyperconverged appliance on the market. VxRail transforms HCI networking and simplifies VMware cloud adoption, while meeting any HCI use case, including support for the most demanding workloads and applications.
+
+- [Dell EMC VxRail Hyperconverged Infrastructure](https://www.dellemc.com/en-us/converged-infrastructure/vxrail/index.htm)
+
+- [Dell EMC VxRail Appliance](https://shop.dellemc.com/en-us/Product-Family/VxRail-Products/Dell-EMC-VxRail-Appliance/p/VCE-VxRail)
+
+- [VxRail Appliance Techbook](https://www.dellemc.com/resources/en-us/asset/technical-guides-support-information/products/converged-infrastructure/h15104-vxrail-appliance-techbook.pdf)
+
+- [VxRail Quick Start Guide](https://www.dellemc.com/resources/en-us/asset/technical-guides-support-information/products/converged-infrastructure/vxrail-quickstart-guide.pdf)
+
+- [VxRail Network Guide](https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/converged-infrastructure/h15300-vxrail-network-guide.pdf)
+
+- [VxRail Stretched Clusters Planning Guide](https://www.dellemc.com/en-us/collaterals/unauth/white-papers/products/converged-infrastructure/h15275-vxrail-planning-guide-virtual-san-stretched-cluster.pdf)
+
+- [VxRail vCenter Server Planning Guide](https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/converged-infrastructure/h15844-vxrail-4-0-vcenter-server-pg.pdf)
+
+- [VxRail Xpress Sizer](https://mainstayadvisor.com/go/emc/vxrail/index.html)
+
+- [VxRail Customer Success Stories](https://www.dellemc.com/en-us/converged-infrastructure/customers/index.htm#customer=altalink&dropdownfilter1=vxrail)
+
+- [VxRail HOL](http://labs.hol.vmware.com/HOL/catalogs/lab/3786)
+
+- [Dell EMC VxRail DECN Community](https://community.emc.com/community/products/vxrail)
+
+- [VxRail Xpert Community](http://vxrail.is/xperts)
+
 
 ---
 # vSAN on VMware {Code}
@@ -646,7 +679,7 @@ Session | Title | Stream | Download | PDF
 |HCI3291BU | vSAN: Data Placement Deep Dive | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/19539) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3291BU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/HCI3291BU.pdf)|
 |HCI3452BU | Achieving a GDPR-Ready Architecture Leveraging VMware vSAN | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/22201) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3452BU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/HCI3452BU.pdf)|
 |HCI3697BUS | Enhance your vSphere and vSAN implementations w/ Persistent Memory and SSDs | NO Stream POSTED | NO DOWNLOAD POSTED | NO PDF POSTED|
-|HCI3819QU | Get the Edge on vSAN : Innovating Hyper-Converged Infrastructure | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/17033) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3819QU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/HCI3819QU.pdf)|
+|HCI3819QU | Get the Edge on vSAN Innovating Hyper-Converged Infrastructure | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/17033) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI3819QU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/HCI3819QU.pdf)|
 |WIN3450BU | Best Practices for Deploying Horizon on vSAN and VxRail | [STREAM](https://videos.vmworld.com/global/2018/videoplayer/22260) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3450BU.mp4) | [PDF](https://cms.vmworldonline.com/event_data/10/session_notes/WIN3450BU.pdf)|
 
 
@@ -720,7 +753,7 @@ Everything started with this [single tweet](https://twitter.com/homelaber/status
 # Disclaimer
 The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
 
-TL/DR - Tweets are mine and don't represent my employeer. :)
+TL/DR - Tweets are mine and don't represent my employeer.)
 
 # Update Log
 - 2019-03-20
@@ -778,6 +811,8 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
     - added vmw latam blog by @GreatWhiteTec
 - 2019-04-08
     - updated HCIBench 2.0
+- 2019-04-09
+    - added VxRAIL section - tks @harikrishnant
 
 ---
 # ToDo
@@ -787,4 +822,4 @@ TL/DR - Tweets are mine and don't represent my employeer. :)
 - Create a Twitter account for the project
 - ~~Add new section - vSAN vExpert List~~ 
 
-- ~~Write better commit messages :)~~
+- ~~Write better commit messages)~~
