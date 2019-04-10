@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-04-09_
+_Last Update: 2019-04-10_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -328,6 +328,8 @@ _Use right click to open links in new tab/window_
 
 - vSAN related posts @ VMware LATAM Blog https://blogs.vmware.com/latam/vsan
 - [Consideraciones para ejecutar cargas de trabajo de Microsoft SQL en VMware vSAN](https://www.vmugcr.com/2019/04/01/consideraciones-para-ejecutar-cargas-de-trabajo-de-microsoft-sql-en-vmware-vsan/) by [@costaricavmug](https://twitter.com/costaricavmug)
+
+- [Blog Ignacio Errea](https://www.ierrea.com/blog/category/vSAN) by [@inatoerrea](https://twitter.com/inatoerrea)
 
 ## vSAN Blogs in Portuguese
 
@@ -813,6 +815,8 @@ TL/DR - Tweets are mine and don't represent my employeer.)
     - updated HCIBench 2.0
 - 2019-04-09
     - added VxRAIL section - tks @harikrishnant
+- 2019-04-10
+    - added blog Ignacio Errea - @inatoerrea 
 
 ---
 # ToDo
