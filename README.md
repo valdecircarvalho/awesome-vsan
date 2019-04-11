@@ -2,7 +2,7 @@
 
 #AwesomevSAN - by [@homelaber](https://twitter.com/homelaber)
 
-_Last Update: 2019-04-10_
+_Last Update: 2019-04-11_
 
 <center><h3> A curated list of AWESOME VMware vSAN Resources create by the community to the community. </h3> </center>
 
@@ -619,6 +619,7 @@ _Use right click to open links in new tab/window_
 - [Introdução VMware vSAN - PT-BR](https://www.youtube.com/watch?v=0fbc_LthTrY&list=PLAh5KLOvimbhcmYdXQz41TMSPTo_AK9Dx) by [John Costa](https://twitter.com/johncostaaraujo)
 - [Tech Stand Up Episode 20 – Getting Started with VMware vSAN for Free](https://nerdblurt.com/tech-stand-up-episode-20-getting-started-with-vmware-vsan-for-free/) by [Luigi Danakos @nerdBlurt](https://twitter.com/NerdBlurt)
 - [vBrownBag vSAN videos](https://vbrownbag.com/?s=vSAN) [@vBrownBag](https://twitter.com/vBrownBag)
+- [Sanjay Poonen (VMware) & Thomas Kurian (Google) Next 2019 keynote comments](https://www.youtube.com/watch?v=p4Hvrfob5oQ) by [@spoonen](https://twitter.com/spoonen/status/1115806188786946048) 
 
 ---
 # VMworld 2018 - vSAN Presentations & Videos
@@ -817,6 +818,8 @@ TL/DR - Tweets are mine and don't represent my employeer.)
     - added VxRAIL section - tks @harikrishnant
 - 2019-04-10
     - added blog Ignacio Errea - @inatoerrea 
+- 2019-04-11 
+    - added @spoonen talk @ #GoogleNext19
 
 ---
 # ToDo
